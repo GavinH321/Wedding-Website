@@ -283,6 +283,7 @@
         position: relative;
         display: block;
         top: 430px;
+        left: -50px;
         width: 275px;
         height: 277px;
     }
@@ -290,7 +291,7 @@
     .burgandy-flower-two {
         position: relative;
         display: block;
-        left: 1240px;
+        left: 1290px;
         top: -280px;
         width: 275px;
         height: 277px;
