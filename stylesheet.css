@@ -49,7 +49,7 @@
     .burgandy-flower {
         position: relative;
         display: block;
-        top: 65px;
+        top: 75px;
         left: -20px;
         width: 20%;
         height: 20%;
@@ -92,8 +92,8 @@
         position: relative;
         color: #AA6C39;
         font-size: 19px;
-        top: -740px;
-        left: 80px;
+        top: -760px;
+        left: 70px;
     }
 
     .a-one:hover {
@@ -119,8 +119,8 @@
         position: relative;
         color: #AA6C39;
         font-size: 19px;
-        top: -640px;
-        left: 90px;
+        top: -760px;
+        left: 80px;
     }
 
     .a-two:hover {
@@ -146,8 +146,8 @@
         position: relative;
         color: #AA6C39;
         font-size: 19px;
-        top: -640px;
-        left: 100px;
+        top: -760px;
+        left: 90px;
     }
 
     .a-three:hover {
@@ -173,8 +173,8 @@
         position: relative;
         color: #AA6C39;
         font-size: 19px;
-        top: -640px;
-        left: 150px;
+        top: -760px;
+        left: 100px;
     }
 
     .a-four:hover {
