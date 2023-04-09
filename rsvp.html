@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="stylesheet" href="rsvp-ss.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RSVP</title>
+    <style>
+        body {
+            background-image: url("images/blue-background.jpg");
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
+    </style>
+    <script src="javas.js"></script>
+</head>
+
+<body>
+
+    <img class="border" src="images\wedding-transparent-background-23 (1).png" rel="border">
+    <img class="photo-one" src="images\wedding-transparent-background-25.png" rel="border-2">
+    <img class="photo-two" src="images\wedding-transparent-background-25.png" rel="border-3">
+    <img class="photo-three" src="images\wedding-transparent-background-25.png" rel="border-4">
+    <img class="photo-four" src="images\wedding-transparent-background-25.png" rel="border-5">
+    <h1>RSVP</h1>
+    <hr>
+    <h3>Enter Information</h3>
+
+
+    <script type="text/javascript">
+        function EnableDisableTextBox(emailcheck) {
+            var emailtext = document.getElementById("emailtext");
+            emailtext.disabled = emailcheck.checked ? false : true;
+            if (!emailtext.disabled) {
+                emailtext.focus();
+                emailtext.setAttribute('required', '');
+            };
+        };
+        function resetForm() {
+            var frm = document.getElementById('sheetdb-form');
+            frm.submit();
+            frm.reload();
+        };
+    </script>
+    <script type="text/javascript">
+        function makeRequired() {
+            var e = document.getElementById('guestSelection');
+            var value = e.value;
+            var text = e.options[e.selectedIndex].text;
+            if (text == 'Yes') {
+                var input1 = document.getElementById('gfname');
+                var input2 = document.getElementById('glname');
+                input1.setAttribute('required', '');
+                input2.setAttribute('required', '');
+            }
+            if (text == 'No') {
+                var input1 = document.getElementById('gfname');
+                var input2 = document.getElementById('glname');
+                input1.removeAttribute('required', '');
+                input2.removeAttribute('required', '');
+            }
+        }
+    </script>
+
+    <form action="https://sheetdb.io/api/v1/coitpvj53ssy5" method="post" id="sheetdb-form">
+        <input type="text" class="input-first-name" id="fname" name="data[fname]" required>
+        <label for="fname" class="first-name">First Name*</label>
+        <input type="text" class="input-last-name" id="lname" name="data[lname]" required>
+        <label for="lname" class="last-name">Last Name*</label>
+        <select class="going-button" required name="data[going]">
+            <option></option>
+            <option value="yes">Yes</option>
+            <option value="no">No</option>
+        </select>
+        <label class="going-label">Will you be attending?*</label>
+        <select class="guest-selection" required id="guestSelection" onchange="makeRequired()">
+            <option></option>
+            <option value="yes" id="yesChoice">Yes</option>
+            <option value="no">No</option>
+        </select>
+        <label class="guest-sel-label">Will you be bringing a guest?*</label>
+        <input type="text" class="input-guest-first" id="gfname" name="data[gfname]" />
+        <label for="gfname" class="guest-first-name">Guests First Name</label>
+        <input type="text" class="input-guest-last" id="glname" name="data[glname]" />
+        <label for="glname" class="guest-last-name">Guests Last Name</label>
+        <input type="submit" id="submit" name="submit" class="submit-button" onclick="resetForm()" />
+        <input type="checkbox" class="check" id="emailcheck" onclick="EnableDisableTextBox(this)" />
+        <label for="emailcheck" class="check-label"><br>Check Here if you would like<br>to enter
+            your email to receive<br> reminders and updates for the<br> wedding.</label>
+        <input type="email" class="email-text" id="emailtext" name="data[email]" disabled="disabled" />
+        <label for="emailtext" class="email-label">Email</label>
+    </form>
+
+    <a href="location.html" class="a-one">Location</a>
+    <a href="schedule" class="a-two">FAQs</a>
+    <a href="faqs" class="a-three">Schedule</a>
+    <hr class="first-vert-line" />
+    <hr class="second-vert-line" />
+    <a href="index.html" class="a-four">Back to Home</a>
+
+    <script>
+        var form = document.getElementById('sheetdb-form');
+        form.addEventListener("submit", e => {
+            e.preventDefault();
+            fetch(form.action, {
+                method: "POST",
+                body: new FormData(document.getElementById("sheetdb-form")),
+            }).then(
+                response => response.json()
+            );
+            form.reset();
+            alert("Form submitted, Thank you!")
+        });
+    </script>
+
+</body>
+
+</html>

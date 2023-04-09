@@ -1,0 +1,498 @@
+@media screen and (max-width: 481px) {
+    .hr-line {
+        position: relative;
+        background-color: #AA6C39;
+        width: 300px;
+        height: 5px;
+        border: 0px;
+        top: -660px;
+    }
+
+    .wedding-title {
+        position: relative;
+        color: #AA6C39;
+        /* -webkit-text-stroke: 1px #AA6C39000; */
+        font-family: 'Great Vibes', cursive;
+        font-size: 2em;
+        left: 70px;
+        top: -20px;
+    }
+
+    .date {
+        position: relative;
+        text-align: center;
+        color: #AA6C39;
+        font-size: 18pt;
+        top: -660px;
+    }
+
+    .photo-number-1 {
+        position: relative;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        top: 500px;
+        left: 0%;
+        border-left: #AA6C39;
+        border-left-width: 4px;
+        border-left-style: solid;
+        border-top: #AA6C39;
+        border-top-width: 4px;
+        border-top-style: solid;
+        border-right: #AA6C39;
+        border-right-width: 4px;
+        border-right-style: solid;
+        width: 70%;
+        height: 50%;
+    }
+
+    .burgandy-flower {
+        position: relative;
+        display: block;
+        top: 400px;
+        left: -25px;
+        width: 20%;
+        height: 20%;
+    }
+
+    .burgandy-flower-two {
+        position: relative;
+        display: block;
+        left: 350px;
+        top: -390px;
+        width: 20%;
+        height: 20%;
+    }
+
+    .rose-photo {
+        position: relative;
+        display: block;
+        top: -360px;
+        left: 0px;
+        width: 30%;
+        height: 30%;
+    }
+
+    .rose-photo-two {
+        position: relative;
+        display: block;
+        top: -200px;
+        left: 300px;
+        width: 30%;
+        height: 30%;
+    }
+
+    body {
+        height: 100%;
+        overflow: hidden;
+    }
+
+    .a-one:link {
+        text-decoration: none;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -640px;
+        left: 80px;
+    }
+
+    .a-one:hover {
+        text-decoration: underline;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -360px;
+        left: 80px;
+    }
+
+    .a-one:active {
+        text-decoration: none;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -360px;
+        left: 80px;
+    }
+
+    .a-two:link {
+        text-decoration: none;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -640px;
+        left: 90px;
+    }
+
+    .a-two:hover {
+        text-decoration: underline;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -640px;
+        left: 610px;
+    }
+
+    .a-two:active {
+        text-decoration: none;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -640px;
+        left: 610px;
+    }
+
+    .a-three:link {
+        text-decoration: none;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -640px;
+        left: 100px;
+    }
+
+    .a-three:hover {
+        text-decoration: underline;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -640px;
+        left: 645px;
+    }
+
+    .a-three:active {
+        text-decoration: none;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -640px;
+        left: 645px;
+    }
+
+    .a-four:link {
+        text-decoration: none;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -640px;
+        left: 150px;
+    }
+
+    .a-four:hover {
+        text-decoration: underline;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -640px;
+        left: 685px;
+    }
+
+    .a-four:active {
+        text-decoration: none;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -640px;
+        left: 685px;
+    }
+
+    .first-vert-line {
+        position: relative;
+        background-color: #AA6C39;
+        width: 30px;
+        height: 2px;
+        border: 0px;
+        transform: rotate(90deg);
+        right: 120px;
+        top: -460px;
+    }
+
+    .second-vert-line {
+        position: relative;
+        background-color: #AA6C39;
+        width: 30px;
+        height: 2px;
+        border: 0px;
+        transform: rotate(90deg);
+        right: 20px;
+        top: -470px;
+    }
+
+    .third-vert-line {
+        position: relative;
+        background-color: #AA6C39;
+        width: 30px;
+        height: 2px;
+        border: 0px;
+        transform: rotate(90deg);
+        right: -90px;
+        top: -480px;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+
+    .hr-line {
+        position: relative;
+        background-color: #AA6C39;
+        width: 400px;
+        height: 5px;
+        border: 0px;
+        top: -970px;
+    }
+
+    .wedding-title {
+        position: fixed;
+        text-align: center;
+        color: #AA6C39;
+        /* -webkit-text-stroke: 1px #AA6C39000; */
+        font-family: 'Great Vibes', cursive;
+        font-size: 4em;
+        left: 540px;
+        top: -20px;
+    }
+
+    .date {
+        position: relative;
+        text-align: center;
+        color: #AA6C39;
+        font-size: 18pt;
+        top: -970px;
+    }
+
+    .photo-number-1 {
+        position: fixed;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        top: 280px;
+        left: 400px;
+        border-left: #AA6C39;
+        border-left-width: 4px;
+        border-left-style: solid;
+        border-top: #AA6C39;
+        border-top-width: 4px;
+        border-top-style: solid;
+        border-right: #AA6C39;
+        border-right-width: 4px;
+        border-right-style: solid;
+        width: 756px;
+        height: 503px;
+    }
+
+    .burgandy-flower {
+        position: relative;
+        display: block;
+        top: 430px;
+        width: 275px;
+        height: 277px;
+    }
+
+    .burgandy-flower-two {
+        position: relative;
+        display: block;
+        left: 1240px;
+        top: -280px;
+        width: 275px;
+        height: 277px;
+    }
+
+    .rose-photo {
+        position: relative;
+        display: block;
+        top: -630px;
+        left: -80px;
+        width: 252px;
+        height: 250px;
+    }
+
+    .rose-photo-two {
+        position: relative;
+        display: block;
+        top: -280px;
+        left: 1350px;
+        width: 252px;
+        height: 250px;
+    }
+
+    body {
+        height: 100%;
+        overflow: hidden;
+    }
+
+    .a-one:link {
+        text-decoration: none;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -940px;
+        left: 580px;
+    }
+
+    .a-one:hover {
+        text-decoration: underline;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -940px;
+        left: 580px;
+    }
+
+    .a-one:visited {
+        text-decoration: underline;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -940px;
+        left: 580px;
+    }
+
+    .a-one:active {
+        text-decoration: none;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -940px;
+        left: 580px;
+    }
+
+    .a-two:link {
+        text-decoration: none;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -940px;
+        left: 610px;
+    }
+
+    .a-two:visited {
+        text-decoration: none;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -940px;
+        left: 610px;
+    }
+
+    .a-two:hover {
+        text-decoration: underline;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -940px;
+        left: 610px;
+    }
+
+    .a-two:active {
+        text-decoration: none;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -940px;
+        left: 610px;
+    }
+
+    .a-three:link {
+        text-decoration: none;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -940px;
+        left: 645px;
+    }
+
+    .a-three:visited {
+        text-decoration: none;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -940px;
+        left: 645px;
+    }
+
+    .a-three:hover {
+        text-decoration: underline;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -940px;
+        left: 645px;
+    }
+
+    .a-three:active {
+        text-decoration: none;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -940px;
+        left: 645px;
+    }
+
+    .a-four:link {
+        text-decoration: none;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -940px;
+        left: 685px;
+    }
+
+    .a-four:visited {
+        text-decoration: none;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -940px;
+        left: 685px;
+    }
+
+    .a-four:hover {
+        text-decoration: underline;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -940px;
+        left: 685px;
+    }
+
+    .a-four:active {
+        text-decoration: none;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -940px;
+        left: 685px;
+    }
+
+    .first-vert-line {
+        position: relative;
+        background-color: #AA6C39;
+        width: 30px;
+        height: 2px;
+        border: 0px;
+        transform: rotate(90deg);
+        right: 115px;
+        top: -960px;
+    }
+
+    .second-vert-line {
+        position: relative;
+        background-color: #AA6C39;
+        width: 30px;
+        height: 2px;
+        border: 0px;
+        transform: rotate(90deg);
+        right: 10px;
+        top: -970px;
+    }
+
+    .third-vert-line {
+        position: relative;
+        background-color: #AA6C39;
+        width: 30px;
+        height: 2px;
+        border: 0px;
+        transform: rotate(90deg);
+        right: -100px;
+        top: -980px;
+    }
+}

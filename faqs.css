@@ -1,0 +1,69 @@
+@media only screen and (min-width: 992px) {
+
+    body {
+        height: 100%;
+        overflow: hidden;
+    }
+
+    h1 {
+        position: relative;
+        top: -650px;
+        left: -5px;
+        text-align: center;
+        font-family: 'Kalam', cursive;
+        color: #AA6C39;
+        font-size: 40pt;
+    }
+
+    h3 {
+        position: relative;
+        top: -680px;
+        text-align: center;
+        font-family: 'Kalam', cursive;
+        color: #AA6C39;
+        font-size: 24pt;
+    }
+
+    .border {
+        position: relative;
+        top: 0px;
+        left: 460px;
+        width: 600px;
+        height: 700px;
+    }
+
+    .photo-one {
+        position: relative;
+        width: 220px;
+        height: 280px;
+        top: -420px;
+        left: -600px;
+    }
+
+    .photo-two {
+        position: relative;
+        width: 220px;
+        height: 280px;
+        top: 0px;
+        left: -820px;
+        transform: scaleY(-1);
+    }
+
+    .photo-three {
+        position: relative;
+        width: 220px;
+        height: 280px;
+        top: 0px;
+        left: 240px;
+        transform: scale(-1, -1)
+    }
+
+    .photo-four {
+        position: relative;
+        width: 220px;
+        height: 280px;
+        top: -420px;
+        left: 15px;
+        transform: scaleX(-1);
+    }
+}
