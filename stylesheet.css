@@ -202,7 +202,7 @@
         height: 2px;
         border: 0px;
         transform: rotate(90deg);
-        right: 75px;
+        right: 68px;
         top: -780px;
     }
 
@@ -213,8 +213,8 @@
         height: 2px;
         border: 0px;
         transform: rotate(90deg);
-        right: 20px;
-        top: -470px;
+        right: 40px;
+        top: -780px;
     }
 
     .third-vert-line {
@@ -224,8 +224,8 @@
         height: 2px;
         border: 0px;
         transform: rotate(90deg);
-        right: -90px;
-        top: -480px;
+        right: -100px;
+        top: -760px;
     }
 }
 
