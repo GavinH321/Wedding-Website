@@ -5,7 +5,7 @@
         width: 300px;
         height: 5px;
         border: 0px;
-        top: -730px;
+        top: -710px;
     }
 
     .wedding-title {
@@ -15,7 +15,7 @@
         font-family: 'Great Vibes', cursive;
         font-size: 2em;
         left: 70px;
-        top: -20px;
+        top: 40px;
     }
 
     .date {
@@ -23,7 +23,7 @@
         text-align: center;
         color: #AA6C39;
         font-size: 18pt;
-        top: -720px;
+        top: -700px;
     }
 
     .photo-number-1 {
@@ -92,7 +92,7 @@
         position: relative;
         color: #AA6C39;
         font-size: 19px;
-        top: -720px;
+        top: -700px;
         left: 70px;
     }
 
@@ -119,7 +119,7 @@
         position: relative;
         color: #AA6C39;
         font-size: 19px;
-        top: -720px;
+        top: -700px;
         left: 80px;
     }
 
@@ -146,7 +146,7 @@
         position: relative;
         color: #AA6C39;
         font-size: 19px;
-        top: -720px;
+        top: -700px;
         left: 90px;
     }
 
@@ -173,7 +173,7 @@
         position: relative;
         color: #AA6C39;
         font-size: 19px;
-        top: -720px;
+        top: -700px;
         left: 100px;
     }
 
@@ -203,7 +203,7 @@
         border: 0px;
         transform: rotate(90deg);
         right: 82px;
-        top: -730px;
+        top: -710px;
     }
 
     .second-vert-line {
@@ -214,7 +214,7 @@
         border: 0px;
         transform: rotate(90deg);
         right: -2px;
-        top: -750px;
+        top: -730px;
     }
 
     .third-vert-line {
@@ -225,7 +225,7 @@
         border: 0px;
         transform: rotate(90deg);
         right: -85px;
-        top: -760px;
+        top: -740px;
     }
 }
 
