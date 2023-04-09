@@ -202,7 +202,7 @@
         height: 2px;
         border: 0px;
         transform: rotate(90deg);
-        right: 80px;
+        right: 82px;
         top: -780px;
     }
 
@@ -213,7 +213,7 @@
         height: 2px;
         border: 0px;
         transform: rotate(90deg);
-        right: 20px;
+        right: -10px;
         top: -790px;
     }
 
@@ -224,7 +224,7 @@
         height: 2px;
         border: 0px;
         transform: rotate(90deg);
-        right: -90px;
+        right: -85px;
         top: -800px;
     }
 }
