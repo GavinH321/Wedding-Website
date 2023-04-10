@@ -471,8 +471,8 @@
         position: relative;
         outline: none;
         width: 160px;
-        top: -712px;
-        left: 503px;
+        top: -722px;
+        left: 103px;
         border: 2px solid #AA6C39;
     }
 
@@ -480,15 +480,15 @@
         position: relative;
         font-size: 18px;
         top: -685px;
-        left: -75px;
+        left: -125px;
         color: #AA6C39;
     }
 
     .last-name {
         position: relative;
         font-size: 18px;
-        top: -685px;
-        left: 332px;
+        top: -695px;
+        left: 32px;
         color: #AA6C39;
     }
 
