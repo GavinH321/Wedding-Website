@@ -58,8 +58,8 @@
     .burgandy-flower-two {
         position: relative;
         display: block;
-        left: 350px;
-        top: -450px;
+        left: 330px;
+        top: -460px;
         width: 30%;
         height: 30%;
     }
@@ -67,8 +67,8 @@
     .rose-photo {
         position: relative;
         display: block;
-        top: -570px;
-        left: -40px;
+        top: -600px;
+        left: -30px;
         width: 40%;
         height: 40%;
     }
