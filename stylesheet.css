@@ -5,7 +5,7 @@
         width: 300px;
         height: 5px;
         border: 0px;
-        top: -800px;
+        top: -840px;
     }
 
     .wedding-title {
@@ -23,7 +23,7 @@
         text-align: center;
         color: #AA6C39;
         font-size: 18pt;
-        top: -790px;
+        top: -830px;
     }
 
     .photo-number-1 {
@@ -49,7 +49,7 @@
     .burgandy-flower {
         position: relative;
         display: block;
-        top: 25px;
+        top: 5px;
         left: -25px;
         width: 30%;
         height: 30%;
@@ -59,7 +59,7 @@
         position: relative;
         display: block;
         left: 315px;
-        top: -480px;
+        top: -460px;
         width: 30%;
         height: 30%;
     }
@@ -76,8 +76,8 @@
     .rose-photo-two {
         position: relative;
         display: block;
-        top: -290px;
-        left: 350px;
+        top: -340px;
+        left: 310px;
         width: 40%;
         height: 40%;
     }
