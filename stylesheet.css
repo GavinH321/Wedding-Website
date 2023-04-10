@@ -95,14 +95,23 @@
         top: -860px;
         left: 70px;
     }
+    
+    .a-one:visited {
+        text-decoration: none;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -860px;
+        left: 70px;
+    }
 
     .a-one:hover {
         text-decoration: underline;
         position: relative;
         color: #AA6C39;
         font-size: 19px;
-        top: -360px;
-        left: 80px;
+        top: -860px;
+        left: 70px;
     }
 
     .a-one:active {
@@ -110,11 +119,20 @@
         position: relative;
         color: #AA6C39;
         font-size: 19px;
-        top: -360px;
-        left: 80px;
+        top: -860px;
+        left: 70px;
     }
 
     .a-two:link {
+        text-decoration: none;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -860px;
+        left: 80px;
+    }
+    
+    .a-two:visited {
         text-decoration: none;
         position: relative;
         color: #AA6C39;
@@ -128,8 +146,8 @@
         position: relative;
         color: #AA6C39;
         font-size: 19px;
-        top: -640px;
-        left: 610px;
+        top: -860px;
+        left: 80px;
     }
 
     .a-two:active {
@@ -137,11 +155,20 @@
         position: relative;
         color: #AA6C39;
         font-size: 19px;
-        top: -640px;
-        left: 610px;
+        top: -860px;
+        left: 80px;
     }
 
     .a-three:link {
+        text-decoration: none;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -860px;
+        left: 90px;
+    }
+    
+    .a-three:visited {
         text-decoration: none;
         position: relative;
         color: #AA6C39;
@@ -155,8 +182,8 @@
         position: relative;
         color: #AA6C39;
         font-size: 19px;
-        top: -640px;
-        left: 645px;
+        top: -860px;
+        left: 90px;
     }
 
     .a-three:active {
@@ -164,11 +191,20 @@
         position: relative;
         color: #AA6C39;
         font-size: 19px;
-        top: -640px;
-        left: 645px;
+        top: -860px;
+        left: 90px;
     }
 
     .a-four:link {
+        text-decoration: none;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -860px;
+        left: 100px;
+    }
+    
+    .a-four:visited {
         text-decoration: none;
         position: relative;
         color: #AA6C39;
@@ -182,8 +218,8 @@
         position: relative;
         color: #AA6C39;
         font-size: 19px;
-        top: -640px;
-        left: 685px;
+        top: -860px;
+        left: 100px;
     }
 
     .a-four:active {
@@ -191,8 +227,8 @@
         position: relative;
         color: #AA6C39;
         font-size: 19px;
-        top: -640px;
-        left: 685px;
+        top: -860px;
+        left: 100px;
     }
 
     .first-vert-line {
