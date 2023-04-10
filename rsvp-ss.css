@@ -414,18 +414,18 @@
         height: 140%;
     }
 
-/*     .photo-one {
+    .photo-one {
         position: relative;
-        width: 220px;
-        height: 280px;
+        width: 0%;
+        height: 0%;
         top: -420px;
         left: -600px;
     }
 
     .photo-two {
         position: relative;
-        width: 220px;
-        height: 280px;
+        width: 0%;
+        height: 0%;
         top: 0px;
         left: -820px;
         transform: scaleY(-1);
@@ -433,8 +433,8 @@
 
     .photo-three {
         position: relative;
-        width: 220px;
-        height: 280px;
+        width: 0%;
+        height: 0%;
         top: 0px;
         left: 240px;
         transform: scale(-1, -1)
@@ -442,12 +442,12 @@
 
     .photo-four {
         position: relative;
-        width: 220px;
-        height: 280px;
+        width: 0%;
+        height: 0%;
         top: -420px;
         left: 15px;
         transform: scaleX(-1);
-    } */
+    }
 
     hr {
         position: relative;
