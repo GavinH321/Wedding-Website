@@ -552,7 +552,7 @@
         color: #AA6C39;
         font-size: 19px;
         top: -935px;
-        left: 645px;
+        left: 145px;
     }
 
     .a-one:hover {
@@ -588,7 +588,7 @@
         color: #AA6C39;
         font-size: 19px;
         top: -935px;
-        left: 665px;
+        left: 165px;
     }
 
     .a-two:visited {
@@ -624,7 +624,7 @@
         color: #AA6C39;
         font-size: 19px;
         top: -935px;
-        left: 685px;
+        left: 185px;
     }
 
     .a-three:visited {
@@ -698,7 +698,7 @@
         border: 0px;
         transform: rotate(90deg);
         right: 36px;
-        top: -955px;
+        top: -1055px;
     }
 
     .second-vert-line {
@@ -709,7 +709,7 @@
         border: 0px;
         transform: rotate(90deg);
         right: -31px;
-        top: -965px;
+        top: -1065px;
     }
 
     .guest-selection {
