@@ -71,12 +71,12 @@
         <label for="fname" class="first-name">First Name*</label>
         <input type="text" class="input-last-name" id="lname" name="data[lname]" required>
         <label for="lname" class="last-name">Last Name*</label>
-        <select class="going-button" required name="data[going]">
+        <select class="going-button" required name="data[going]" id="going">
             <option></option>
             <option value="yes">Yes</option>
             <option value="no">No</option>
         </select>
-        <label class="going-label">Will you be attending?*</label>
+        <label for="going" class="going-label">Will you be attending?*</label>
         <select class="guest-selection" required id="guestSelection" onchange="makeRequired()">
             <option></option>
             <option value="yes" id="yesChoice">Yes</option>
