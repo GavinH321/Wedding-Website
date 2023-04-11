@@ -516,7 +516,7 @@
     .going-label {
         position: relative;
         top: -680px;
-        left: -240px;
+        left: 10px;
         font-size: 18px;
         color: #AA6C39;
     }
@@ -731,7 +731,7 @@
         position: relative;
         outline: none;
         width: 160px;
-        top: -580px;
+        top: -680px;
         left: -45px;
         border: 2px solid #AA6C39;
     }
