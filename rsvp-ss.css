@@ -495,13 +495,13 @@
     .check {
         position: relative;
         top: -630px;
-        left: 50px;
+        left: -50px;
     }
 
     .check-label {
         position: relative;
         top: -654px;
-        left: 35px;
+        left: 95px;
         font-size: 18px;
         color: #AA6C39;
     }
@@ -509,7 +509,6 @@
     .going-button {
         position: relative;
         top: -680px;
-        left: 18px;
         outline: none;
         border: #AA6C39 2px solid;
     }
@@ -541,8 +540,8 @@
 
     .submit-button {
         position: relative;
-        top: -420px;
-        left: 590px;
+        top: -520px;
+        left: 90px;
         font-size: 18px;
     }
 
@@ -714,7 +713,7 @@
 
     .guest-selection {
         position: relative;
-        top: -658px;
+        top: -678px;
         left: 190px;
         outline: none;
         border: #AA6C39 2px solid;
@@ -722,7 +721,7 @@
 
     .guest-sel-label {
         position: relative;
-        top: -655px;
+        top: -675px;
         left: -88px;
         font-size: 18px;
         color: #AA6C39;
