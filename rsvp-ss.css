@@ -463,7 +463,7 @@
         outline: none;
         width: 160px;
         top: -712px;
-        left: -5px;
+        left: 15px;
         border: 2px solid #AA6C39;
     }
 
@@ -471,7 +471,7 @@
         position: relative;
         outline: none;
         width: 160px;
-        top: -732px;
+        top: -737px;
         left: 213px;
         border: 2px solid #AA6C39;
     }
@@ -487,21 +487,21 @@
     .last-name {
         position: relative;
         font-size: 18px;
-        top: -715px;
+        top: -713px;
         left: 32px;
         color: #AA6C39;
     }
 
     .check {
         position: relative;
-        top: -530px;
-        left: 300px;
+        top: -630px;
+        left: 50px;
     }
 
     .check-label {
         position: relative;
-        top: -554px;
-        left: 535px;
+        top: -654px;
+        left: 35px;
         font-size: 18px;
         color: #AA6C39;
     }
@@ -517,7 +517,7 @@
     .going-label {
         position: relative;
         top: -680px;
-        left: -200px;
+        left: -240px;
         font-size: 18px;
         color: #AA6C39;
     }
@@ -714,7 +714,7 @@
 
     .guest-selection {
         position: relative;
-        top: -618px;
+        top: -658px;
         left: 190px;
         outline: none;
         border: #AA6C39 2px solid;
@@ -722,7 +722,7 @@
 
     .guest-sel-label {
         position: relative;
-        top: -615px;
+        top: -655px;
         left: -88px;
         font-size: 18px;
         color: #AA6C39;
