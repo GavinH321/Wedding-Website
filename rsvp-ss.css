@@ -463,7 +463,7 @@
         outline: none;
         width: 160px;
         top: -712px;
-        left: 15px;
+        left: 5px;
         border: 2px solid #AA6C39;
     }
 
@@ -471,8 +471,8 @@
         position: relative;
         outline: none;
         width: 160px;
-        top: -732px;
-        left: 203px;
+        top: -722px;
+        left: 183px;
         border: 2px solid #AA6C39;
     }
 
@@ -487,7 +487,7 @@
     .last-name {
         position: relative;
         font-size: 18px;
-        top: -705px;
+        top: -715px;
         left: 32px;
         color: #AA6C39;
     }
@@ -508,16 +508,16 @@
 
     .going-button {
         position: relative;
-        top: -650px;
-        left: 318px;
+        top: -680px;
+        left: 18px;
         outline: none;
         border: #AA6C39 2px solid;
     }
 
     .going-label {
         position: relative;
-        top: -650px;
-        left: 40px;
+        top: -680px;
+        left: -40px;
         font-size: 18px;
         color: #AA6C39;
     }
