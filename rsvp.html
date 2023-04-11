@@ -77,12 +77,12 @@
             <option value="no">No</option>
         </select>
         <label for="going" class="going-label">Will you be attending?*</label>
-        <select class="guest-selection" required id="guestSelection" onchange="makeRequired()">
+        <select id="sel" class="guest-selection" required id="guestSelection" onchange="makeRequired()">
             <option></option>
             <option value="yes" id="yesChoice">Yes</option>
             <option value="no">No</option>
         </select>
-        <label class="guest-sel-label">Will you be bringing a guest?*</label>
+        <label for="sel" class="guest-sel-label">Will you be bringing a guest?*</label>
         <input type="text" class="input-guest-first" id="gfname" name="data[gfname]" />
         <label for="gfname" class="guest-first-name">Guests First Name</label>
         <input type="text" class="input-guest-last" id="glname" name="data[glname]" />
