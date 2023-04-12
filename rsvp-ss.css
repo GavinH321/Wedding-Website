@@ -724,7 +724,7 @@
         position: relative;
         white-space: nowrap;
         top: -695px;
-        left: 65px;
+        left: 68px;
         font-size: 18px;
         color: #AA6C39;
     }
@@ -734,7 +734,7 @@
         outline: none;
         width: 160px;
         top: -665px;
-        left: 150px;
+        left: -150px;
         border: 2px solid #AA6C39;
     }
 
@@ -742,8 +742,8 @@
         position: relative;
         outline: none;
         width: 160px;
-        top: -670px;
-        left: 150px;
+        top: -690px;
+        left: -50px;
         border: 2px solid #AA6C39;
     }
 
