@@ -716,7 +716,7 @@
     .guest-selection {
         position: relative;
         top: -678px;
-        left: 170px;
+        left: 110px;
         outline: none;
         border: #AA6C39 2px solid;
     }
@@ -725,7 +725,7 @@
         position: relative;
         white-space: nowrap;
         top: -695px;
-        left: 45px;
+        left: 55px;
         font-size: 18px;
         color: #AA6C39;
     }
@@ -744,7 +744,7 @@
         outline: none;
         width: 160px;
         top: -690px;
-        left: 190px;
+        left: 90px;
         border: 2px solid #AA6C39;
     }
 
@@ -752,7 +752,7 @@
         position: relative;
         font-size: 18px;
         top: -655px;
-        left: -5px;
+        left: 15px;
         color: #AA6C39;
     }
 
