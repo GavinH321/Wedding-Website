@@ -494,8 +494,8 @@
 
     .check {
         position: relative;
-        top: -630px;
-        left: -50px;
+        top: -650px;
+        left: 80px;
     }
 
     .check-label {
@@ -509,7 +509,7 @@
     .going-button {
         position: relative;
         top: -680px;
-        left: 20px;
+        left: 25px;
         outline: none;
         border: #AA6C39 2px solid;
     }
@@ -744,14 +744,14 @@
         outline: none;
         width: 160px;
         top: -690px;
-        left: 90px;
+        left: 110px;
         border: 2px solid #AA6C39;
     }
 
     .guest-first-name {
         position: relative;
         font-size: 18px;
-        top: -655px;
+        top: -660px;
         left: 15px;
         color: #AA6C39;
     }
@@ -760,8 +760,8 @@
         position: relative;
         white-space: nowrap;
         font-size: 18px;
-        top: -685px;
-        left: 192px;
+        top: -690px;
+        left: 205px;
         color: #AA6C39;
     }
 }
