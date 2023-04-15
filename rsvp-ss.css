@@ -494,14 +494,14 @@
 
     .check {
         position: relative;
-        top: -650px;
-        left: 80px;
+        top: -660px;
+        left: -120px;
     }
 
     .check-label {
         position: relative;
-        top: -654px;
-        left: 95px;
+        top: -675px;
+        left: 135px;
         font-size: 18px;
         color: #AA6C39;
     }
@@ -716,7 +716,7 @@
     .guest-selection {
         position: relative;
         top: -678px;
-        left: 110px;
+        left: 108px;
         outline: none;
         border: #AA6C39 2px solid;
     }
@@ -761,7 +761,7 @@
         white-space: nowrap;
         font-size: 18px;
         top: -690px;
-        left: 205px;
+        left: 210px;
         color: #AA6C39;
     }
 }
