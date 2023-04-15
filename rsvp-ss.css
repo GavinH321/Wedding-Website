@@ -535,7 +535,7 @@
     .email-label {
         position: relative;
         top: -630px;
-        left: -185px;
+        left: -195px;
         font-size: 18px;
         color: #AA6C39;
     }
@@ -751,7 +751,7 @@
     .guest-first-name {
         position: relative;
         font-size: 18px;
-        top: -660px;
+        top: -665px;
         left: 15px;
         color: #AA6C39;
     }
@@ -761,7 +761,7 @@
         white-space: nowrap;
         font-size: 18px;
         top: -690px;
-        left: 210px;
+        left: 215px;
         color: #AA6C39;
     }
 }
