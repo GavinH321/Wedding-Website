@@ -495,13 +495,13 @@
     .check {
         position: relative;
         top: -660px;
-        left: -120px;
+        left: -140px;
     }
 
     .check-label {
         position: relative;
-        top: -675px;
-        left: 135px;
+        top: -680px;
+        left: 125px;
         font-size: 18px;
         color: #AA6C39;
     }
@@ -525,8 +525,8 @@
 
     .email-text {
         position: relative;
-        top: -615px;
-        left: 105px;
+        top: -635px;
+        left: 5px;
         outline: none;
         border: 2px solid #AA6C39;
         width: 210px;
@@ -534,17 +534,17 @@
 
     .email-label {
         position: relative;
-        top: -590px;
-        left: 84px;
+        top: -620px;
+        left: -100px;
         font-size: 18px;
         color: #AA6C39;
     }
 
     .submit-button {
         position: relative;
-        top: -520px;
-        left: 90px;
-        font-size: 18px;
+        top: -530px;
+        left: 40px;
+        font-size: 14px;
     }
 
     .a-one:link {
