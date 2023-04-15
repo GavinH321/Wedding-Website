@@ -495,7 +495,7 @@
     .check {
         position: relative;
         top: -660px;
-        left: -130px;
+        left: -125px;
     }
 
     .check-label {
@@ -525,7 +525,7 @@
 
     .email-text {
         position: relative;
-        top: -650px;
+        top: -655px;
         left: 25px;
         outline: none;
         border: 2px solid #AA6C39;
@@ -534,8 +534,8 @@
 
     .email-label {
         position: relative;
-        top: -625px;
-        left: -175px;
+        top: -630px;
+        left: -185px;
         font-size: 18px;
         color: #AA6C39;
     }
