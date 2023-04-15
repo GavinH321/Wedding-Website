@@ -48,48 +48,48 @@
 
     .photo-two {
         position: relative;
-        width: 220px;
-        height: 280px;
-        top: 0px;
-        left: -820px;
+        width: 20%;
+        height: 20%;
+        top: 0%;
+        left: 0%;
         transform: scaleY(-1);
     }
 
     .photo-three {
         position: relative;
-        width: 220px;
-        height: 280px;
-        top: 0px;
-        left: 240px;
+        width: 20%;
+        height: 20%;
+        top: 0%;
+        left: 0%;
         transform: scale(-1, -1)
     }
 
     .photo-four {
         position: relative;
-        width: 220px;
-        height: 280px;
-        top: -420px;
-        left: 15px;
+        width: 20%;
+        height: 20%;
+        top: 0%;
+        left: 0%;
         transform: scaleX(-1);
     }
 
     .first-hr {
         position: relative;
         height: 4px;
-        width: 500px;
+        width: 50%;
         background-color: #AA6C39;
         border: 0px;
-        top: -550px;
+        top: 15%;
     }
 
     .second-hr {
         position: relative;
         height: 4px;
-        width: 250px;
+        width: 25%;
         background-color: #AA6C39;
         border: 0px;
         transform: rotate(90deg);
-        top: -500px;
+        top: 25%;
     }
 
     .parking-title {
@@ -97,8 +97,8 @@
         font-family: 'Kalam', cursive;
         font-size: 26px;
         color: #AA6C39;
-        top: -630px;
-        left: 170px;
+        top: 40%;
+        left: 10%;
     }
 
     .paragraph-one {
@@ -106,8 +106,8 @@
         font-family: Arial, Helvetica, sans-serif;
         font-size: 16px;
         color: #AA6C39;
-        top: -630px;
-        left: 170px;
+        top: 50%;
+        left: 10%;
     }
 
     .lodging-title {
@@ -115,8 +115,8 @@
         font-family: 'Kalam', cursive;
         font-size: 26px;
         color: #AA6C39;
-        top: -835px;
-        left: 920px;
+        top: 40%;
+        left: 40%;
     }
 
     .paragraph-two {
@@ -124,8 +124,8 @@
         font-family: Arial, Helvetica, sans-serif;
         font-size: 16px;
         color: #AA6C39;
-        top: -835px;
-        left: 920px;
+        top: 50%;
+        left: 40%;
     }
 
     .a-one:link {
@@ -133,8 +133,8 @@
         position: relative;
         color: #AA6C39;
         font-size: 19px;
-        top: -1070px;
-        left: 650px;
+        top: 30%;
+        left: 20%;
     }
 
     .a-one:visited {
@@ -169,8 +169,8 @@
         position: relative;
         color: #AA6C39;
         font-size: 19px;
-        top: -1070px;
-        left: 675px;
+        top: 30%;
+        left: 25%;
     }
 
     .a-two:visited {
