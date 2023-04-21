@@ -40,7 +40,7 @@
     }
 
     .photo-one {
-        position: relative;
+        position: absolute;
         width: 0%;
         height: 0%;
         top: 0%;
@@ -48,7 +48,7 @@
     }
 
     .photo-two {
-        position: relative;
+        position: absolute;
         width: 0%;
         height: 0%;
         top: 0%;
@@ -57,7 +57,7 @@
     }
 
     .photo-three {
-        position: relative;
+        position: absolute;
         width: 0%;
         height: 0%;
         top: 0%;
@@ -66,7 +66,7 @@
     }
 
     .photo-four {
-        position: relative;
+        position: absolute;
         width: 0%;
         height: 0%;
         top: 0%;
@@ -75,7 +75,7 @@
     }
 
     .first-hr {
-        position: relative;
+        position: absolute;
         height: 4px;
         width: 50%;
         background-color: #AA6C39;
@@ -84,7 +84,7 @@
     }
 
     .second-hr {
-        position: relative;
+        position: absolute;
         height: 4px;
         width: 25%;
         background-color: #AA6C39;
@@ -94,7 +94,7 @@
     }
 
     .parking-title {
-        position: relative;
+        position: absolute;
         font-family: 'Kalam', cursive;
         font-size: 26px;
         color: #AA6C39;
@@ -103,7 +103,7 @@
     }
 
     .paragraph-one {
-        position: relative;
+        position: absolute;
         font-family: Arial, Helvetica, sans-serif;
         font-size: 16px;
         color: #AA6C39;
@@ -112,7 +112,7 @@
     }
 
     .lodging-title {
-        position: relative;
+        position: absolute;
         font-family: 'Kalam', cursive;
         font-size: 26px;
         color: #AA6C39;
@@ -121,7 +121,7 @@
     }
 
     .paragraph-two {
-        position: relative;
+        position: absolute;
         font-family: Arial, Helvetica, sans-serif;
         font-size: 16px;
         color: #AA6C39;
@@ -131,7 +131,7 @@
 
     .a-one:link {
         text-decoration: none;
-        position: relative;
+        position: absolute;
         color: #AA6C39;
         font-size: 19px;
         top: 30%;
@@ -140,7 +140,7 @@
 
     .a-one:visited {
         text-decoration: none;
-        position: relative;
+        position: absolute;
         color: #AA6C39;
         font-size: 19px;
         top: -1070px;
@@ -149,7 +149,7 @@
 
     .a-one:hover {
         text-decoration: underline;
-        position: relative;
+        position: absolute;
         color: #AA6C39;
         font-size: 19px;
         top: -1070px;
@@ -158,7 +158,7 @@
 
     .a-one:active {
         text-decoration: none;
-        position: relative;
+        position: absolute;
         color: #AA6C39;
         font-size: 19px;
         top: -1070px;
@@ -167,7 +167,7 @@
 
     .a-two:link {
         text-decoration: none;
-        position: relative;
+        position: absolute;
         color: #AA6C39;
         font-size: 19px;
         top: 30%;
@@ -176,7 +176,7 @@
 
     .a-two:visited {
         text-decoration: none;
-        position: relative;
+        position: absolute;
         color: #AA6C39;
         font-size: 19px;
         top: -1070px;
@@ -185,7 +185,7 @@
 
     .a-two:hover {
         text-decoration: underline;
-        position: relative;
+        position: absolute;
         color: #AA6C39;
         font-size: 19px;
         top: -1070px;
@@ -194,7 +194,7 @@
 
     .a-two:active {
         text-decoration: none;
-        position: relative;
+        position: absolute;
         color: #AA6C39;
         font-size: 19px;
         top: -1070px;
@@ -203,7 +203,7 @@
 
     .a-three:link {
         text-decoration: none;
-        position: relative;
+        position: absolute;
         color: #AA6C39;
         font-size: 19px;
         top: -1070px;
@@ -212,7 +212,7 @@
 
     .a-three:visited {
         text-decoration: none;
-        position: relative;
+        position: absolute;
         color: #AA6C39;
         font-size: 19px;
         top: -1070px;
@@ -221,7 +221,7 @@
 
     .a-three:active {
         text-decoration: none;
-        position: relative;
+        position: absolute;
         color: #AA6C39;
         font-size: 19px;
         top: -1070px;
@@ -230,7 +230,7 @@
 
     .a-three:hover {
         text-decoration: underline;
-        position: relative;
+        position: absolute;
         color: #AA6C39;
         font-size: 19px;
         top: -1070px;
@@ -239,7 +239,7 @@
 
     .a-four:link {
         text-decoration: none;
-        position: relative;
+        position: absolute;
         color: #AA6C39;
         font-size: 19px;
         top: 20%;
@@ -248,7 +248,7 @@
 
     .a-four:visited {
         text-decoration: none;
-        position: relative;
+        position: absolute;
         color: #AA6C39;
         font-size: 19px;
         top: -1370px;
@@ -257,7 +257,7 @@
 
     .a-four:active {
         text-decoration: none;
-        position: relative;
+        position: absolute;
         color: #AA6C39;
         font-size: 19px;
         top: -1370px;
@@ -266,7 +266,7 @@
 
     .a-four:hover {
         text-decoration: underline;
-        position: relative;
+        position: absolute;
         color: #AA6C39;
         font-size: 19px;
         top: -1370px;
@@ -274,7 +274,7 @@
     }
 
     .mini-hr-one {
-        position: relative;
+        position: absolute;
         background-color: #AA6C39;
         width: 30px;
         height: 2px;
@@ -285,7 +285,7 @@
     }
 
     .mini-hr-two {
-        position: relative;
+        position: absolute;
         background-color: #AA6C39;
         width: 10%;
         height: 2px;
