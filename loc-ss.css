@@ -237,7 +237,7 @@
         text-decoration: none;
         position: absolute;
         color: #AA6C39;
-        font-size: 19px;
+        font-size: 100%;
         top: 15%;
         left: 27%;
     }
@@ -246,27 +246,27 @@
         text-decoration: none;
         position: absolute;
         color: #AA6C39;
-        font-size: 19px;
-        top: -1370px;
-        left: 200px;
+        font-size: 100%;
+        top: 15%;
+        left: 27%;
     }
 
     .a-four:active {
         text-decoration: none;
         position: absolute;
         color: #AA6C39;
-        font-size: 19px;
-        top: -1370px;
-        left: 200px;
+        font-size: 100%;
+        top: 15%;
+        left: 27%;
     }
 
     .a-four:hover {
         text-decoration: underline;
         position: absolute;
         color: #AA6C39;
-        font-size: 19px;
-        top: -1370px;
-        left: 200px;
+        font-size: 100%;
+        top: 15%;
+        left: 27%;
     }
 
     .mini-hr-one {
