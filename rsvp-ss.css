@@ -391,6 +391,7 @@
     h1 {
         position: relative;
         top: 10%;
+        text-align: center;
         left: 25%;
         font-family: 'Kalam', cursive;
         color: #AA6C39;
@@ -451,9 +452,9 @@
         position: relative;
         background-color: #AA6C39;
         border: 0px;
-        height: 1%;
+        height: .5%;
         width: 50%;
-        top: 30%;
+        top: 15%;
     }
 
     .input-first-name {
