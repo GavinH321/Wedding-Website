@@ -176,7 +176,7 @@
         text-decoration: none;
         position: absolute;
         color: #AA6C39;
-        font-size: 19px;
+        font-size: 100%;
         top: 30%;
         left: 25%;
     }
@@ -195,8 +195,8 @@
         position: absolute;
         color: #AA6C39;
         font-size: 19px;
-        top: -1070px;
-        left: 650px;
+        top: 30%;
+        left: 25%;
     }
 
     .a-one:active {
