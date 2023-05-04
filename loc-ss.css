@@ -84,10 +84,11 @@
     .second-hr {
         position: absolute;
         height: 4px;
-        width: 25%;
+        width: 35%;
         background-color: #AA6C39;
         border: 0px;
-        top: 50%;
+        top: 58%;
+        left: 20%;
     }
 
     .parking-title {
@@ -113,7 +114,7 @@
         font-family: 'Kalam', cursive;
         font-size: 130%;
         color: #AA6C39;
-        top: 54%;
+        top: 60%;
         left: 30%;
     }
 
@@ -140,7 +141,7 @@
         font-family: Arial, Helvetica, sans-serif;
         font-size: 100%;
         color: #AA6C39;
-        top: 50%;
+        top: 49%;
         left: 5%;
     }
 
