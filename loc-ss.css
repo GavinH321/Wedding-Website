@@ -88,7 +88,7 @@
         background-color: #AA6C39;
         border: 0px;
         top: 58%;
-        left: 15%;
+        left: 12%;
     }
 
     .parking-title {
@@ -186,8 +186,8 @@
         position: absolute;
         color: #AA6C39;
         font-size: 19px;
-        top: -1070px;
-        left: 650px;
+        top: 30%;
+        left: 25%;
     }
 
     .a-one:hover {
@@ -204,8 +204,8 @@
         position: absolute;
         color: #AA6C39;
         font-size: 19px;
-        top: -1070px;
-        left: 650px;
+        top: 30%;
+        left: 25%;
     }
 
     .a-two:link {
@@ -222,8 +222,8 @@
         position: absolute;
         color: #AA6C39;
         font-size: 19px;
-        top: -1070px;
-        left: 675px;
+        top: 30%;
+        left: 40.5%;
     }
 
     .a-two:hover {
@@ -231,8 +231,8 @@
         position: absolute;
         color: #AA6C39;
         font-size: 19px;
-        top: -1070px;
-        left: 675px;
+        top: 30%;
+        left: 40.5%;
     }
 
     .a-two:active {
@@ -240,8 +240,8 @@
         position: absolute;
         color: #AA6C39;
         font-size: 19px;
-        top: -1070px;
-        left: 675px;
+        top: 30%;
+        left: 40.5%;
     }
 
     .a-three:link {
@@ -258,8 +258,8 @@
         position: absolute;
         color: #AA6C39;
         font-size: 19px;
-        top: -1070px;
-        left: 700px;
+        top: 30%;
+        left: 61.5%;
     }
 
     .a-three:active {
@@ -267,8 +267,8 @@
         position: absolute;
         color: #AA6C39;
         font-size: 19px;
-        top: -1070px;
-        left: 700px;
+        top: 30%;
+        left: 61.5%;
     }
 
     .a-three:hover {
@@ -276,8 +276,8 @@
         position: absolute;
         color: #AA6C39;
         font-size: 19px;
-        top: -1070px;
-        left: 700px;
+        top: 30%;
+        left: 61.5%;
     }
 
     .a-four:link {
@@ -295,7 +295,7 @@
         color: #AA6C39;
         font-size: 100%;
         top: 13%;
-        left: 30%;
+        left: 40%;
     }
 
     .a-four:active {
@@ -304,7 +304,7 @@
         color: #AA6C39;
         font-size: 100%;
         top: 13%;
-        left: 30%;
+        left: 40%;
     }
 
     .a-four:hover {
@@ -312,8 +312,8 @@
         position: absolute;
         color: #AA6C39;
         font-size: 100%;
-        top: 15%;
-        left: 27%;
+        top: 13%;
+        left: 40%;
     }
 
     .mini-hr-one {
