@@ -390,9 +390,9 @@
 
     h1 {
         position: relative;
-        top: 10%;
+        top: 8%;
         text-align: center;
-        left: 25%;
+        left: 0%;
         font-family: 'Kalam', cursive;
         color: #AA6C39;
         font-size: 240%;
@@ -400,6 +400,7 @@
 
     h3 {
         position: relative;
+        text-align: center;
         top: 20%;
         font-family: 'Kalam', cursive;
         color: #AA6C39;
