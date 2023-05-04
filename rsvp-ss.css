@@ -392,7 +392,7 @@
         position: relative;
         top: 8%;
         text-align: center;
-        left: 0%;
+        left: -0.5%;
         font-family: 'Kalam', cursive;
         color: #AA6C39;
         font-size: 240%;
@@ -402,7 +402,7 @@
         position: relative;
         text-align: center;
         top: 20%;
-        left: 0%;
+        left: -0.5%;
         font-family: 'Kalam', cursive;
         color: #AA6C39;
         font-size: 140%;
@@ -457,7 +457,7 @@
         border: 0px;
         height: .5%;
         width: 50%;
-        top: 15%;
+        top: 8%;
     }
 
     .input-first-name {
