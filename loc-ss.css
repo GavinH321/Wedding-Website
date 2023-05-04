@@ -94,10 +94,10 @@
     .parking-title {
         position: absolute;
         font-family: 'Kalam', cursive;
-        font-size: 26px;
+        font-size: 160%;
         color: #AA6C39;
-        top: 40%;
-        left: 10%;
+        top: 35%;
+        left: 30%;
     }
 
     .paragraph-one {
