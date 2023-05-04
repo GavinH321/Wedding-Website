@@ -279,18 +279,18 @@
         transform: rotate(90deg);
         border: 0px;
         top: 30%;
-        left: 36%;
+        left: 34%;
     }
 
     .mini-hr-two {
         position: absolute;
         background-color: #AA6C39;
-        width: 10%;
+        width: 8%;
         height: 2px;
         transform: rotate(90deg);
         border: 0px;
-        top: 5%;
-        left: 20%;
+        top: 30%;
+        left: 50%;
     }
 }
 
