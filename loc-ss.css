@@ -274,12 +274,12 @@
     .mini-hr-one {
         position: absolute;
         background-color: #AA6C39;
-        width: 4%;
+        width: 8%;
         height: 2px;
         transform: rotate(90deg);
         border: 0px;
         top: 30%;
-        left: 40%;
+        left: 36%;
     }
 
     .mini-hr-two {
