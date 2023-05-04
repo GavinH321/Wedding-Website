@@ -123,7 +123,7 @@
         font-family: Arial, Helvetica, sans-serif;
         font-size: 16px;
         color: #AA6C39;
-        top: 70%;
+        top: 62%;
         left: 5%;
     }
     
@@ -142,6 +142,15 @@
         font-size: 100%;
         color: #AA6C39;
         top: 49%;
+        left: 5%;
+    }
+    
+    .paragraph-five {
+        position: absolute;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 100%;
+        color: #AA6C39;
+        top: 59%;
         left: 5%;
     }
 
