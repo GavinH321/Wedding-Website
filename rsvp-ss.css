@@ -553,9 +553,9 @@
         text-decoration: none;
         position: relative;
         color: #AA6C39;
-        font-size: 19px;
-        top: -1045px;
-        left: 90px;
+        font-size: 120%;
+        top: 15%;
+        left: 20%;
     }
 
     .a-one:hover {
