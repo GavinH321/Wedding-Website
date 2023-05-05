@@ -587,6 +587,7 @@
 
     .a-two:link {
         text-decoration: none;
+        text-align: center;
         position: relative;
         color: #AA6C39;
         font-size: 19px;
