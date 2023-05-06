@@ -374,22 +374,22 @@
         display: block;
         top: 0%;
         left: 25%;
-        width: 50%;
-        height: 100%;
+        width: 600px;
+        height: 700px;
     }
 
     .photo-one {
         position: absolute;
-        width: 20%;
-        height: 40%;
+        width: 220px;
+        height: 280px;
         top: 1%;
         left: 1%;
     }
 
     .photo-two {
         position: absolute;
-        width: 20%;
-        height: 40%;
+        width: 220px;
+        height: 280px;
         top: 59%;
         left: 1%;
         transform: scaleY(-1);
@@ -397,8 +397,8 @@
 
     .photo-three {
         position: absolute;
-        width: 20%;
-        height: 40%;
+        width: 220px;
+        height: 280px;
         top: 59%;
         left: 79%;
         transform: scale(-1, -1)
@@ -406,8 +406,8 @@
 
     .photo-four {
         position: absolute;
-        width: 20%;
-        height: 40%;
+        width: 220px;
+        height: 280px;
         top: 1%;
         left: 79%;
         transform: scaleX(-1);
