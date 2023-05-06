@@ -551,10 +551,10 @@
 
     .a-one:link {
         text-decoration: none;
-        position: relative;
+        position: absolute;
         color: #AA6C39;
         font-size: 120%;
-        top: -15%;
+        top: 0%;
         left: 20%;
     }
 
@@ -588,11 +588,11 @@
     .a-two:link {
         text-decoration: none;
         text-align: center;
-        position: relative;
+        position: absolute;
         color: #AA6C39;
-        font-size: 19px;
-        top: -15%;
-        left: 110px;
+        font-size: 120%;
+        top: 0%;
+        left: 0%;
     }
 
     .a-two:visited {
