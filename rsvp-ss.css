@@ -695,9 +695,9 @@
     }
 
     .first-vert-line {
-        position: relative;
+        position: absolute;
         background-color: #AA6C39;
-        width: 2%;
+        width: 5%;
         height: 0.5%;
         border: 0px;
         transform: rotate(90deg);
