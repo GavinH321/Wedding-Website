@@ -555,8 +555,8 @@
         position: absolute;
         color: #AA6C39;
         font-size: 120%;
-        top: 15%;
-        left: 20%;
+        top: 20%;
+        left: 25%;
     }
 
     .a-one:hover {
@@ -588,12 +588,11 @@
 
     .a-two:link {
         text-decoration: none;
-        text-align: center;
         position: absolute;
         color: #AA6C39;
         font-size: 120%;
-        top: 15%;
-        left: 30%;
+        top: 20%;
+        left: 40%;
     }
 
     .a-two:visited {
