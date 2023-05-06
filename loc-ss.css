@@ -373,7 +373,7 @@
         position: absolute;
         display: block;
         top: 0%;
-        left: 25%;
+        left: 35%;
         width: 600px;
         height: 700px;
     }
@@ -400,7 +400,7 @@
         width: 220px;
         height: 280px;
         top: 59%;
-        left: 79%;
+        left: 89%;
         transform: scale(-1, -1)
     }
 
@@ -409,7 +409,7 @@
         width: 220px;
         height: 280px;
         top: 1%;
-        left: 79%;
+        left: 89%;
         transform: scaleX(-1);
     }
 
