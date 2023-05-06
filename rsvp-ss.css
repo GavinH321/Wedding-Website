@@ -697,12 +697,12 @@
     .first-vert-line {
         position: relative;
         background-color: #AA6C39;
-        width: 50%;
+        width: 2%;
         height: 0.5%;
         border: 0px;
         transform: rotate(90deg);
         right: 30%;
-        top: 40%;
+        top: 20%;
     }
 
     .second-vert-line {
