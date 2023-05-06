@@ -555,12 +555,12 @@
         position: absolute;
         color: #AA6C39;
         font-size: 120%;
-        top: 20%;
+        top: 21%;
         left: 25%;
     }
 
     .a-one:hover {
-        text-decoration: underline;
+        text-decoration: underline
         position: relative;
         color: #AA6C39;
         font-size: 19px;
@@ -591,8 +591,8 @@
         position: absolute;
         color: #AA6C39;
         font-size: 120%;
-        top: 20%;
-        left: 40%;
+        top: 21%;
+        left: 42%;
     }
 
     .a-two:visited {
@@ -626,9 +626,9 @@
         text-decoration: none;
         position: relative;
         color: #AA6C39;
-        font-size: 19px;
-        top: -1045px;
-        left: 130px;
+        font-size: 120%;
+        top: 21%;
+        left: 46%;
     }
 
     .a-three:visited {
