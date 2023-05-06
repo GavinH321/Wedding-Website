@@ -400,7 +400,7 @@
         width: 220px;
         height: 280px;
         top: 59%;
-        left: 89%;
+        left: 80%;
         transform: scale(-1, -1)
     }
 
@@ -409,7 +409,7 @@
         width: 220px;
         height: 280px;
         top: 1%;
-        left: 89%;
+        left: 80%;
         transform: scaleX(-1);
     }
 
