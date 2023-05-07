@@ -462,7 +462,7 @@
     }
 
     .input-first-name {
-        position: relative;
+        position: absolute;
         outline: none;
         width: 30%;
         top: 3%;
@@ -471,7 +471,7 @@
     }
 
     .input-last-name {
-        position: relative;
+        position: absolute;
         outline: none;
         width: 30%;
         top: 3%;
