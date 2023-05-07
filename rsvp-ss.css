@@ -480,18 +480,18 @@
     }
 
     .first-name {
-        position: relative;
-        font-size: 18px;
-        top: -685px;
-        left: -163px;
+        position: absolute;
+        font-size: 100%;
+        top: 30%;
+        left: 14%;
         color: #AA6C39;
     }
 
     .last-name {
-        position: relative;
-        font-size: 18px;
-        top: -713px;
-        left: 35px;
+        position: absolute;
+        font-size: 100%;
+        top: 30%;
+        left: 44%;
         color: #AA6C39;
     }
 
