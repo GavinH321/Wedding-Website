@@ -401,8 +401,8 @@
 
     h3 {
         position: absolute;
-        top: 20%;
-        left: 25%;
+        top: 21%;
+        left: 27%;
         font-family: 'Kalam', cursive;
         color: #AA6C39;
         font-size: 140%;
@@ -457,8 +457,8 @@
         border: 0px;
         height: .5%;
         width: 40%;
-        top: 15%;
-        left: 25%
+        top: 20%;
+        left: 27%
     }
 
     .input-first-name {
@@ -701,7 +701,7 @@
         height: 0.3%;
         border: 0px;
         transform: rotate(90deg);
-        right: 40.5%;
+        right: 35.5%;
         top: 21.3%;
     }
 
@@ -712,7 +712,7 @@
         height: 0.3%;
         border: 0px;
         transform: rotate(90deg);
-        right: 54%;
+        right: 44%;
         top: 21.3%;
     }
 
