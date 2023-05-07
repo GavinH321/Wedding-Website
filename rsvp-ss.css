@@ -475,7 +475,7 @@
         outline: none;
         width: 30%;
         top: 28.5%;
-        left: 50%;
+        left: 51%;
         border: 0.5% solid #AA6C39;
     }
 
@@ -491,7 +491,7 @@
         position: absolute;
         font-size: 100%;
         top: 31%;
-        left: 50%;
+        left: 51%;
         color: #AA6C39;
     }
 
@@ -510,19 +510,19 @@
     }
 
     .going-button {
-        position: relative;
-        top: -680px;
-        left: 15px;
+        position: absolute;
+        top: 35%;
+        left: 60%;
         outline: none;
         border: #AA6C39 2px solid;
     }
 
     .going-label {
-        position: relative;
+        position: absolute;
         white-space: nowrap;
-        top: -700px;
-        left: 55px;
-        font-size: 18px;
+        top: 36%;
+        left: 15%;
+        font-size: 110%;
         color: #AA6C39;
     }
 
