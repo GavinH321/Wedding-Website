@@ -402,7 +402,7 @@
     h3 {
         position: relative;
         text-align: center;
-        top: 0%;
+        top: 2%;
         left: -0.5%;
         font-family: 'Kalam', cursive;
         color: #AA6C39;
@@ -464,10 +464,10 @@
     .input-first-name {
         position: relative;
         outline: none;
-        width: 160px;
-        top: -712px;
-        left: 15px;
-        border: 2px solid #AA6C39;
+        width: 20%;
+        top: 5%;
+        left: 15%;
+        border: 0.3% solid #AA6C39;
     }
 
     .input-last-name {
