@@ -464,19 +464,19 @@
     .input-first-name {
         position: relative;
         outline: none;
-        width: 20%;
-        top: 5%;
+        width: 30%;
+        top: 3%;
         left: 15%;
-        border: 0.3% solid #AA6C39;
+        border: 0.5% solid #AA6C39;
     }
 
     .input-last-name {
         position: relative;
         outline: none;
-        width: 160px;
-        top: -737px;
-        left: 213px;
-        border: 2px solid #AA6C39;
+        width: 30%;
+        top: 3%;
+        left: left: 40%;
+        border: 0.5% solid #AA6C39;
     }
 
     .first-name {
