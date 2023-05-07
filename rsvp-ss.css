@@ -701,7 +701,7 @@
         height: 0.3%;
         border: 0px;
         transform: rotate(90deg);
-        right: 30%;
+        right: 26%;
         top: 21.3%;
     }
 
@@ -719,7 +719,7 @@
     .guest-selection {
         position: absolute;
         top: 45%;
-        left: 51%;
+        left: 60%;
         outline: none;
         border: #AA6C39 2px solid;
     }
@@ -727,8 +727,8 @@
     .guest-sel-label {
         position: absolute;
         white-space: nowrap;
-        top: 45%;
-        left: 20%;
+        top: 38%;
+        left: 15%;
         font-size: 120%;
         color: #AA6C39;
     }
