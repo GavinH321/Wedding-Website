@@ -718,7 +718,7 @@
 
     .guest-selection {
         position: absolute;
-        top: 36.5%;
+        top: 41.5%;
         left: 74%;
         outline: none;
         border: #AA6C39 2px solid;
@@ -727,7 +727,7 @@
     .guest-sel-label {
         position: absolute;
         white-space: nowrap;
-        top: 36.5%;
+        top: 41.5%;
         left: 13%;
         font-size: 120%;
         color: #AA6C39;
