@@ -754,7 +754,7 @@
     .guest-first-name {
         position: absolute;
         font-size: 100%;
-        top: 44%;
+        top: 50%;
         left: 14%;
         color: #AA6C39;
     }
@@ -763,7 +763,7 @@
         position: absolute;
         white-space: nowrap;
         font-size: 100%;
-        top: 44%;
+        top: 50%;
         left: 51%;
         color: #AA6C39;
     }
