@@ -511,8 +511,8 @@
 
     .going-button {
         position: absolute;
-        top: 36%;
-        left: 70%;
+        top: 32%;
+        left: 72%;
         outline: none;
         border: #AA6C39 2px solid;
     }
@@ -520,8 +520,8 @@
     .going-label {
         position: absolute;
         white-space: nowrap;
-        top: 36%;
-        left: 15%;
+        top: 32%;
+        left: 13%;
         font-size: 110%;
         color: #AA6C39;
     }
@@ -718,8 +718,8 @@
 
     .guest-selection {
         position: absolute;
-        top: 39%;
-        left: 70%;
+        top: 35%;
+        left: 72%;
         outline: none;
         border: #AA6C39 2px solid;
     }
@@ -727,8 +727,8 @@
     .guest-sel-label {
         position: absolute;
         white-space: nowrap;
-        top: 39%;
-        left: 15%;
+        top: 35%;
+        left: 13%;
         font-size: 120%;
         color: #AA6C39;
     }
