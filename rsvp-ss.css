@@ -528,7 +528,7 @@
 
     .email-text {
         position: absolute;
-        top: 62%;
+        top: 70%;
         left: 15%;
         outline: none;
         border: 2px solid #AA6C39;
@@ -537,7 +537,7 @@
 
     .email-label {
         position: absolute;
-        top: 65%;
+        top: 73%;
         left: 15%;
         font-size: 100%;
         color: #AA6C39;
@@ -545,7 +545,7 @@
 
     .submit-button {
         position: absolute;
-        top: 70%;
+        top: 80%;
         left: 38%;
         font-size: 120%;
     }
