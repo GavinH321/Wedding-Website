@@ -465,7 +465,7 @@
         position: absolute;
         outline: none;
         width: 30%;
-        top: 28.5%;
+        top: 30.5%;
         left: 14%;
         border: 0.5% solid #AA6C39;
     }
@@ -474,7 +474,7 @@
         position: absolute;
         outline: none;
         width: 30%;
-        top: 28.5%;
+        top: 30.5%;
         left: 51%;
         border: 0.5% solid #AA6C39;
     }
@@ -482,7 +482,7 @@
     .first-name {
         position: absolute;
         font-size: 100%;
-        top: 31%;
+        top: 34%;
         left: 14%;
         color: #AA6C39;
     }
@@ -490,7 +490,7 @@
     .last-name {
         position: absolute;
         font-size: 100%;
-        top: 31%;
+        top: 34%;
         left: 51%;
         color: #AA6C39;
     }
