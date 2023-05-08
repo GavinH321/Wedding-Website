@@ -56,13 +56,13 @@
             var e = document.getElementById('guestSelection');
             var value = e.value;
             var text = e.options[e.selectedIndex].text;
-            if (text == 'Yes') {
+            if (text == 'yes') {
                 var input1 = document.getElementById('gfname');
                 var input2 = document.getElementById('glname');
                 input1.setAttribute('required', '');
                 input2.setAttribute('required', '');
             }
-            if (text == 'No') {
+            if (text == 'no') {
                 var input1 = document.getElementById('gfname');
                 var input2 = document.getElementById('glname');
                 input1.removeAttribute('required', '');
