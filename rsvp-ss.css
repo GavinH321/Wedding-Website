@@ -497,13 +497,13 @@
 
     .check {
         position: absolute;
-        top: 49%;
+        top: 56%;
         left: 16%;
     }
 
     .check-label {
         position: absolute;
-        top: 45.7%;
+        top: 52.7%;
         left: 25%;
         font-size: 120%;
         color: #AA6C39;
