@@ -561,29 +561,29 @@
 
     .a-one:hover {
         text-decoration: underline;
-        position: relative;
+        position: absolute;
         color: #AA6C39;
-        font-size: 19px;
-        top: -1045px;
-        left: 90px;
+        font-size: 120%;
+        top: 21%;
+        left: 25.5%;
     }
 
     .a-one:visited {
         text-decoration: underline;
-        position: relative;
+        position: absolute;
         color: #AA6C39;
-        font-size: 19px;
-        top: -1045px;
-        left: 90px;
+        font-size: 120%;
+        top: 21%;
+        left: 25.5%;
     }
 
     .a-one:active {
         text-decoration: none;
-        position: relative;
+        position: absolute;
         color: #AA6C39;
-        font-size: 19px;
-        top: -1045px;
-        left: 90px;
+        font-size: 120%;
+        top: 21%;
+        left: 25.5%;
     }
 
     .a-two:link {
@@ -597,29 +597,29 @@
 
     .a-two:visited {
         text-decoration: none;
-        position: relative;
+        position: absolute;
         color: #AA6C39;
-        font-size: 19px;
-        top: -1045px;
-        left: 110px;
+        font-size: 120%;
+        top: 21%;
+        left: 44.5%;
     }
 
     .a-two:hover {
         text-decoration: underline;
-        position: relative;
+        position: absolute;
         color: #AA6C39;
-        font-size: 19px;
-        top: -1045px;
-        left: 110px;
+        font-size: 120%;
+        top: 21%;
+        left: 44.5%;
     }
 
     .a-two:active {
         text-decoration: none;
-        position: relative;
+        position: absolute;
         color: #AA6C39;
-        font-size: 19px;
-        top: -1045px;
-        left: 110px;
+        font-size: 120%;
+        top: 21%;
+        left: 44.5%;
     }
 
     .a-three:link {
@@ -633,38 +633,38 @@
 
     .a-three:visited {
         text-decoration: none;
-        position: relative;
+        position: absolute;
         color: #AA6C39;
-        font-size: 19px;
-        top: -1045px;
-        left: 130px;
+        font-size: 120%;
+        top: 21%;
+        left: 57.5%;
     }
 
     .a-three:hover {
         text-decoration: underline;
-        position: relative;
+        position: absolute;
         color: #AA6C39;
-        font-size: 19px;
-        top: -1045px;
-        left: 130px;
+        font-size: 120%;
+        top: 21%;
+        left: 57.5%;
     }
 
     .a-three:active {
         text-decoration: none;
-        position: relative;
+        position: absolute;
         color: #AA6C39;
-        font-size: 19px;
-        top: -1045px;
-        left: 130px;
+        font-size: 120%;
+        top: 21%;
+        left: 57.5%;
     }
 
     .a-four:link {
         text-decoration: none;
-        position: relative;
+        position: absolute;
         color: #AA6C39;
-        font-size: 19px;
-        top: -1205px;
-        left: 150px;
+        font-size: 100%;
+        top: 10%;
+        left: 30%;
     }
 
     .a-four:visited {
