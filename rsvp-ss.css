@@ -496,9 +496,9 @@
     }
 
     .check {
-        position: relative;
-        top: -660px;
-        left: -125px;
+        position: absolute;
+        top: 49%;
+        left: 15%;
     }
 
     .check-label {
