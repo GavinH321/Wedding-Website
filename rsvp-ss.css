@@ -544,10 +544,10 @@
     }
 
     .submit-button {
-        position: relative;
-        top: -520px;
-        left: 35px;
-        font-size: 12px;
+        position: absolute;
+        top: 70%;
+        left: 40%;
+        font-size: 140%;
     }
 
     .a-one:link {
