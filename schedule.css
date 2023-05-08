@@ -227,5 +227,16 @@
         background-color: #AA6C39;
         border: 0px;
         top: -800px;
+        left: 600px;
+    }
+    
+    .second-vert {
+        postion: relative;
+        height: 2px;
+        width: 15%;
+        background-color: #AA6C39;
+        border: 0px;
+        top: -800px;
+        left: 620px;
     }
 }
