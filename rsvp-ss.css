@@ -502,10 +502,10 @@
     }
 
     .check-label {
-        position: relative;
-        top: -685px;
-        left: 115px;
-        font-size: 18px;
+        position: absolute;
+        top: 49%;
+        left: 20%;
+        font-size: 120%;
         color: #AA6C39;
     }
 
