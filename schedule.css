@@ -7,7 +7,7 @@
 
     h1 {
         position: relative;
-        top: -640px;
+        top: -650px;
         left: -5px;
         text-align: center;
         font-family: 'Kalam', cursive;
@@ -214,9 +214,9 @@
     .first-hr {
         position: relative;
         height: 4px;
-        width: 500px;
+        width: 300px;
         background-color: #AA6C39;
         border: 0px;
-        top: -650px;
+        top: -690px;
     }
 }
