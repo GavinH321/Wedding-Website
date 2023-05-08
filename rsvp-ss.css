@@ -752,19 +752,19 @@
     }
 
     .guest-first-name {
-        position: relative;
-        font-size: 18px;
-        top: -665px;
-        left: 15px;
+        position: absolute;
+        font-size: 100%;
+        top: 44%;
+        left: 14%;
         color: #AA6C39;
     }
 
     .guest-last-name {
-        position: relative;
+        position: absolute;
         white-space: nowrap;
-        font-size: 18px;
-        top: -690px;
-        left: 215px;
+        font-size: 100%;
+        top: 44%;
+        left: 51%;
         color: #AA6C39;
     }
 }
