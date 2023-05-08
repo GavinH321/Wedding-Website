@@ -701,7 +701,7 @@
         height: 0.3%;
         border: 0px;
         transform: rotate(90deg);
-        right: 20%;
+        right: 19.5%;
         top: 21.3%;
     }
 
@@ -712,7 +712,7 @@
         height: 0.3%;
         border: 0px;
         transform: rotate(90deg);
-        right: 43%;
+        right: 43.5%;
         top: 21.3%;
     }
 
@@ -734,21 +734,21 @@
     }
 
     .input-guest-first {
-        position: relative;
+        position: absolute;
         outline: none;
-        width: 160px;
-        top: -665px;
-        left: -210px;
-        border: 2px solid #AA6C39;
+        width: 30%;
+        top: 48.5%;
+        left: 14%;
+        border: 0.5% solid #AA6C39;
     }
 
     .input-guest-last {
-        position: relative;
+        position: absolute;
         outline: none;
-        width: 160px;
-        top: -690px;
-        left: 75px;
-        border: 2px solid #AA6C39;
+        width: 30%;
+        top: 48.5%;
+        left: 14%;
+        border: 0.5% solid #AA6C39;
     }
 
     .guest-first-name {
