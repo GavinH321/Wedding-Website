@@ -527,19 +527,19 @@
     }
 
     .email-text {
-        position: relative;
-        top: -655px;
-        left: 25px;
+        position: absolute;
+        top: 50%;
+        left: 15%;
         outline: none;
         border: 2px solid #AA6C39;
-        width: 210px;
+        width: 60%;
     }
 
     .email-label {
-        position: relative;
-        top: -630px;
-        left: -205px;
-        font-size: 18px;
+        position: absolute;
+        top: 54%;
+        left: 15%;
+        font-size: 100%;
         color: #AA6C39;
     }
 
