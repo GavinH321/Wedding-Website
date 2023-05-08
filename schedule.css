@@ -219,4 +219,13 @@
         border: 0px;
         top: -705px;
     }
+    
+    .first-vert {
+        postion: relative;
+        height: 2px;
+        width: 15%;
+        background-color: #AA6C39;
+        border: 0px;
+        top: -800px;
+    }
 }
