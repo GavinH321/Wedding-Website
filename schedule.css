@@ -227,7 +227,7 @@
         background-color: #AA6C39;
         border: 0px;
         top: -800px;
-        left: 600px;
+        left: 0px;
     }
     
     .second-vert {
@@ -237,6 +237,6 @@
         background-color: #AA6C39;
         border: 0px;
         top: -600px;
-        left: 690px;
+        left: 0px;
     }
 }
