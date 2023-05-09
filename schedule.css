@@ -222,7 +222,7 @@
     
     .first-vert {
         postion: relative;
-        height: 2px;
+        height: 0.5%;
         width: 15%;
         background-color: #AA6C39;
         border: 0px;
@@ -232,11 +232,11 @@
     
     .second-vert {
         postion: relative;
-        height: 2px;
+        height: 0.5%;
         width: 15%;
         background-color: #AA6C39;
         border: 0px;
-        top: -800px;
-        left: 620px;
+        top: -600px;
+        left: 690px;
     }
 }
