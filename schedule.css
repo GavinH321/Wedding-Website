@@ -222,12 +222,12 @@
     
     .first-vert {
         postion: relative;
-        height: 0.5%;
-        width: 15%;
+        height: 4px;
+        width: 15px;
         background-color: #AA6C39;
         border: 0px;
-        top: 15%;
-        left: 20%;
+        top: 0px;
+        left: 200px;
     }
     
     .second-vert {
