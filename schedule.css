@@ -227,7 +227,7 @@
         background-color: #AA6C39;
         border: 0px;
         top: 200px;
-        left: 300px;
+        left: 0px;
         transform: rotate(90deg)
     }
     
@@ -237,7 +237,7 @@
         width: 15px;
         background-color: #AA6C39;
         border: 0px;
-        top: -600px;
+        top: 400px;
         left: 0px;
         transform: rotate(90deg)
     }
@@ -253,7 +253,7 @@
     h1 {
         position: absolute;
         top: 10%;
-        left: 0%;
+        left: 29%;
         text-align: center;
         font-family: 'Kalam', cursive;
         color: #AA6C39;
@@ -287,8 +287,8 @@
 
     .photo-two {
         position: relative;
-        width: 220px;
-        height: 280px;
+        width: 0px;
+        height: 0px;
         top: 0px;
         left: -820px;
         transform: scaleY(-1);
@@ -296,8 +296,8 @@
 
     .photo-three {
         position: relative;
-        width: 220px;
-        height: 280px;
+        width: 0px;
+        height: 0px;
         top: 0px;
         left: 240px;
         transform: scale(-1, -1)
@@ -305,8 +305,8 @@
 
     .photo-four {
         position: relative;
-        width: 220px;
-        height: 280px;
+        width: 0px;
+        height: 0px;
         top: -420px;
         left: 15px;
         transform: scaleX(-1);
