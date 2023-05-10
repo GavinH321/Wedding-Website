@@ -226,7 +226,7 @@
         width: 15px;
         background-color: #AA6C39;
         border: 0px;
-        top: -700px;
+        top: 0px;
         left: 40%;
         transform: rotate(90deg)
     }
@@ -238,7 +238,7 @@
         background-color: #AA6C39;
         border: 0px;
         top: -600px;
-        left: 0px;
+        left: 600px;
         transform: rotate(90deg)
     }
 }
