@@ -226,8 +226,8 @@
         width: 450px;
         background-color: #AA6C39;
         border: 0px;
-        top: 0px;
-        left: 40%;
+        top: -800px;
+        left: 400px;
         transform: rotate(90deg)
     }
     
