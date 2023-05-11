@@ -221,7 +221,7 @@
     }
     
     .first-vert {
-        postion: absolute;
+        postion: relative;
         height: 80px;
         width: 450px;
         background-color: #AA6C39;
