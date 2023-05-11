@@ -459,11 +459,11 @@
     .first-hr {
         position: absolute;
         height: 4px;
-        width: 30%;
+        width: 40%;
         background-color: #AA6C39;
         border: 0px;
-        top: 25%;
-        left: 20%;
+        top: 15%;
+        left: 30%;
     }
     
     .first-vert {
