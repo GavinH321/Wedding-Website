@@ -222,18 +222,18 @@
     
     .first-vert {
         postion: relative;
-        height: 80px;
+        height: 4px;
         width: 450px;
         background-color: #AA6C39;
         border: 0px;
         transform: rotate(90deg);
-        top: -1100px;
+        top: -1400px;
         left: 100px;
     }
     
     .second-vert {
         postion: relative;
-        height: 40px;
+        height: 4px;
         width: 450px;
         background-color: #AA6C39;
         border: 0px;
