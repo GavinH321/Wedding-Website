@@ -226,14 +226,14 @@
         width: 450px;
         background-color: #AA6C39;
         border: 0px;
-        top: 100px;
+        top: 0px;
         left: 100px;
         transform: rotate(90deg)
     }
     
     .second-vert {
         postion: relative;
-        height: 80px;
+        height: 40px;
         width: 450px;
         background-color: #AA6C39;
         border: 0px;
