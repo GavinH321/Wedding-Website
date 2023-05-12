@@ -369,7 +369,7 @@
         color: #AA6C39;
         font-size: 120%;
         top: 20%;
-        left: 40%;
+        left: 42%;
     }
 
     .a-two:visited {
@@ -484,22 +484,23 @@
     .first-vert {
         postion: absolute;
         height: 4px;
-        width: 15px;
+        width: 15%;
         background-color: #AA6C39;
         border: 0px;
-        top: 20%;
+        top: 30%;
         left: 35%;
         transform: rotate(90deg);
     }
     
     .second-vert {
         postion: absolute;
-        height: 0.5%;
+        height: 4px;
         width: 15%;
         background-color: #AA6C39;
         border: 0px;
-        top: -700px;
-        left: 0px;
+        top: 30%;
+        left: 50%;
+        transform: rotate(90deg);
     }
     
     .p-one {
