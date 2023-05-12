@@ -223,10 +223,11 @@
     .first-vert {
         position: relative;
         height: 4px;
-        width: 300px;
+        width: 15px;
         background-color: #AA6C39;
         border: 0px;
         top: -705px;
+        left: 15px;
         transform: rotate(90deg);
     }
     
