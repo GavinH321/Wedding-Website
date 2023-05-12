@@ -481,6 +481,28 @@
         left: 29%;
     }
     
+    .first-vert {
+        position: absolute;
+        height: 4px;
+        width: 10%;
+        background-color: #AA6C39;
+        border: 0px;
+        top: -685px;
+        left: 40px;
+        transform: rotate(90deg);
+    }
+    
+    .second-vert {
+        position: absolute;
+        height: 4px;
+        width: 10%;
+        background-color: #AA6C39;
+        border: 0px;
+        top: 20%;
+        left: 30%;
+        transform: rotate(90deg);
+    }
+    
     .p-one {
         position: absolute;
         color: #AA6C39;
