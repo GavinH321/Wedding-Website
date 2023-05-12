@@ -221,27 +221,13 @@
     }
     
     .first-vert {
-        postion: relative;
+        position: relative;
         height: 4px;
-        width: 450px;
+        width: 300px;
         background-color: #AA6C39;
         border: 0px;
-        transform: rotate(90deg);
-        top: -1400px;
-        left: 200px;
+        top: -705px;
     }
-    
-    .second-vert {
-        postion: relative;
-        height: 4px;
-        width: 450px;
-        background-color: #AA6C39;
-        border: 0px;
-        transform: rotate(90deg);
-        top: -1800px;
-        left: 600px;
-    }
-}
 
 @media only screen and (max-width: 481px) {
 
