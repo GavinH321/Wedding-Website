@@ -241,6 +241,15 @@
         left: -50px;
         transform: rotate(90deg);
     }
+    
+    .p-one {
+        position: relative;
+        top: -600px;
+        text-align: center;
+        font-family: 'Kalam', cursive;
+        color: #AA6C39;
+        font-size: 30pt;
+    }
 
 @media only screen and (max-width: 481px) {
 
