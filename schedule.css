@@ -484,18 +484,18 @@
     .first-vert {
         position: absolute;
         height: 4px;
-        width: 10%;
+        width: 8%;
         background-color: #AA6C39;
         border: 0px;
-        top: -685px;
-        left: 40px;
+        top: 20%;
+        left: 50%;
         transform: rotate(90deg);
     }
     
     .second-vert {
         position: absolute;
         height: 4px;
-        width: 10%;
+        width: 8%;
         background-color: #AA6C39;
         border: 0px;
         top: 20%;
