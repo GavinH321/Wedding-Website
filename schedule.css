@@ -258,7 +258,7 @@
         font-size: 30pt;
     }
 
-@media only screen and (max-width: 481px) {
+@media screen and (max-width: 481px) {
 
     body {
         height: 100%;
