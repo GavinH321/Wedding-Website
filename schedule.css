@@ -249,6 +249,14 @@
         color: #AA6C39;
         font-size: 30pt;
     }
+    
+    .p-two {
+        position: relative;
+        top: -710px;
+        text-align: center;
+        color #AA6C39;
+        font-size: 30pt;
+    }
 
 @media only screen and (max-width: 481px) {
 
