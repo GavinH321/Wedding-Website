@@ -108,7 +108,7 @@
         position: relative;
         color: #AA6C39;
         font-size: 19px;
-        top: -710px;
+        top: -720px;
         left: 670px;
     }
 
@@ -144,7 +144,7 @@
         position: relative;
         color: #AA6C39;
         font-size: 19px;
-        top: -710px;
+        top: -720px;
         left: 690px;
     }
 
@@ -234,10 +234,12 @@
     .second-vert {
         position: relative;
         height: 4px;
-        width: 300px;
+        width: 35px;
         background-color: #AA6C39;
         border: 0px;
-        top: -655px;
+        top: -685px;
+        left: -40px;
+        transform: rotate(90deg);
     }
 
 @media only screen and (max-width: 481px) {
