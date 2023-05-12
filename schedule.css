@@ -272,7 +272,7 @@
         text-align: center;
         font-family: 'Kalam', cursive;
         color: #AA6C39;
-        font-size: 220%pt;
+        font-size: 220%;
     }
 
     h3 {
@@ -290,41 +290,6 @@
         left: 0%;
         width: 100%;
         height: 100%;
-    }
-
-    .photo-one {
-        position: relative;
-        width: 0px;
-        height: 0px;
-        top: -420px;
-        left: -600px;
-    }
-
-    .photo-two {
-        position: relative;
-        width: 0%;
-        height: 0%;
-        top: 0px;
-        left: -820px;
-        transform: scaleY(-1);
-    }
-
-    .photo-three {
-        position: relative;
-        width: 0%;
-        height: 0%;
-        top: 0px;
-        left: 240px;
-        transform: scale(-1, -1)
-    }
-
-    .photo-four {
-        position: relative;
-        width: 0%;
-        height: 0%;
-        top: -420px;
-        left: 15px;
-        transform: scaleX(-1);
     }
 
     .a-one:link {
