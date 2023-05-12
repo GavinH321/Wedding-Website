@@ -228,6 +228,15 @@
         border: 0px;
         top: -705px;
     }
+    
+    .second-vert {
+        position: relative;
+        height: 4px;
+        width: 300px;
+        background-color: #AA6C39;
+        border: 0px;
+        top: -655px;
+    }
 
 @media only screen and (max-width: 481px) {
 
