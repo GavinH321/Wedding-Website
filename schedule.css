@@ -482,17 +482,18 @@
     }
     
     .first-vert {
-        postion: relative;
+        postion: absolute;
         height: 4px;
         width: 15px;
         background-color: #AA6C39;
         border: 0px;
-        top: -700px;
-        left: 690px;
+        top: 20%;
+        left: 35%;
+        transform: rotate(90deg);
     }
     
     .second-vert {
-        postion: relative;
+        postion: absolute;
         height: 0.5%;
         width: 15%;
         background-color: #AA6C39;
