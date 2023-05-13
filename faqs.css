@@ -73,7 +73,7 @@
         color: #AA6C39;
         font-size: 19px;
         top: -700px;
-        left: 600px;
+        left: 620px;
     }
 
     .a-one:visited {
@@ -105,11 +105,11 @@
 
     .a-two:link {
         text-decoration: none;
-        position: absolute;
+        position: relative;
         color: #AA6C39;
-        font-size: 120%;
-        top: 30%;
-        left: 40%;
+        font-size: 19px;
+        top: -700px;
+        left: 660px;
     }
 
     .a-two:visited {
@@ -217,6 +217,6 @@
         height: 4px;
         border: 0px;
         background-color: #AA6C39;
-        top: -750px;
+        top: -740px;
     }
 }
