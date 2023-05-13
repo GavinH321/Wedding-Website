@@ -241,4 +241,12 @@
         left: -50px;
         transform: rotate(90deg);
     }
+    
+    .bullet-one {
+        position: relative;
+        text-align: center;
+        color: #AA6C39;
+        font-size: 14pt;
+        top: -600px;
+    }
 }
