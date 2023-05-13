@@ -23,7 +23,7 @@
         color: #AA6C39;
         font-size: 170%;
         top: 15%;
-        left: 18%
+        left: 19%
     }
 
     .photo-number-1 {
@@ -49,8 +49,7 @@
     .burgandy-flower {
         position: absolute;
         display: block;
-        top: 43%;
-        left: 0.2%;
+        top: 44%;
         width: 30%;
         height: 15%;
     }
@@ -58,7 +57,7 @@
     .burgandy-flower-two {
         position: absolute;
         display: block;
-        left: 75%;
+        left: 74.8%;
         top: 0.2%;
         width: 30%;
         height: 15%;
@@ -69,17 +68,17 @@
         display: block;
         top: 0.2%;
         left: 0.2%;
-        width: 40%;
-        height: 40%;
+        width: 30%;
+        height: 15%;
     }
 
     .rose-photo-two {
         position: absolute;
         display: block;
-        top: -410px;
-        left: 295px;
-        width: 40%;
-        height: 40%;
+        top: 44%;
+        left: 75%;
+        width: 30%;
+        height: 15%;
     }
 
     body {
