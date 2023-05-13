@@ -66,4 +66,147 @@
         left: 15px;
         transform: scaleX(-1);
     }
+    
+    .a-one:link {
+        text-decoration: none;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -600px;
+    }
+
+    .a-one:visited {
+        text-decoration: none;
+        position: absolute;
+        color: #AA6C39;
+        font-size: 120%;
+        top: 30%;
+        left: 24.5%;
+    }
+
+    .a-one:hover {
+        text-decoration: underline;
+        position: absolute;
+        color: #AA6C39;
+        font-size: 120%;
+        top: 30%;
+        left: 24.5%;
+    }
+
+    .a-one:active {
+        text-decoration: none;
+        position: absolute;
+        color: #AA6C39;
+        font-size: 120%;
+        top: 30%;
+        left: 24.5%;
+    }
+
+    .a-two:link {
+        text-decoration: none;
+        position: absolute;
+        color: #AA6C39;
+        font-size: 120%;
+        top: 30%;
+        left: 40%;
+    }
+
+    .a-two:visited {
+        text-decoration: none;
+        position: absolute;
+        color: #AA6C39;
+        font-size: 120%;
+        top: 30%;
+        left: 40%;
+    }
+
+    .a-two:hover {
+        text-decoration: underline;
+        position: absolute;
+        color: #AA6C39;
+        font-size: 120%;
+        top: 30%;
+        left: 40%;
+    }
+
+    .a-two:active {
+        text-decoration: none;
+        position: absolute;
+        color: #AA6C39;
+        font-size: 120%;
+        top: 30%;
+        left: 40%;
+    }
+
+    .a-three:link {
+        text-decoration: none;
+        position: absolute;
+        color: #AA6C39;
+        font-size: 120%;
+        top: 30%;
+        left: 61.5%;
+    }
+
+    .a-three:visited {
+        text-decoration: none;
+        position: absolute;
+        color: #AA6C39;
+        font-size: 120%;
+        top: 30%;
+        left: 61.5%;
+    }
+
+    .a-three:active {
+        text-decoration: none;
+        position: absolute;
+        color: #AA6C39;
+        font-size: 120%;
+        top: 30%;
+        left: 61.5%;
+    }
+
+    .a-three:hover {
+        text-decoration: underline;
+        position: absolute;
+        color: #AA6C39;
+        font-size: 120%;
+        top: 30%;
+        left: 61.5%;
+    }
+
+    .a-four:link {
+        text-decoration: none;
+        position: absolute;
+        color: #AA6C39;
+        font-size: 100%;
+        top: 13%;
+        left: 39%;
+    }
+
+    .a-four:visited {
+        text-decoration: none;
+        position: absolute;
+        color: #AA6C39;
+        font-size: 100%;
+        top: 13%;
+        left: 39%;
+    }
+
+    .a-four:active {
+        text-decoration: none;
+        position: absolute;
+        color: #AA6C39;
+        font-size: 100%;
+        top: 13%;
+        left: 39%;
+    }
+
+    .a-four:hover {
+        text-decoration: underline;
+        position: absolute;
+        color: #AA6C39;
+        font-size: 100%;
+        top: 13%;
+        left: 39%;
+    }
 }
