@@ -179,9 +179,9 @@
         text-decoration: none;
         position: absolute;
         color: #AA6C39;
-        font-size: 100%;
-        top: 13%;
-        left: 39%;
+        font-size: 19px;
+        top: -735;
+        left: 400px;
     }
 
     .a-four:visited {
