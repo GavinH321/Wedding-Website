@@ -166,7 +166,7 @@
         color: #AA6C39;
         font-size: 120%;
         top: 15%;
-        left: 55%;
+        left: 50%;
     }
     
     .a-three:visited {
@@ -239,8 +239,8 @@
         height: 0.5%;
         border: 0px;
         transform: rotate(90deg);
-        left: 25%;
-        top: 15%;
+        left: 24.5%;
+        top: 15.5%;
     }
 
     .second-vert-line {
@@ -251,7 +251,7 @@
         border: 0px;
         transform: rotate(90deg);
         left: 45%;
-        top: 15%;
+        top: 15.5%;
     }
 
     .third-vert-line {
@@ -262,7 +262,7 @@
         border: 0px;
         transform: rotate(90deg);
         left: 65%;
-        top: 15%;
+        top: 15.5%;
     }
 }
 
