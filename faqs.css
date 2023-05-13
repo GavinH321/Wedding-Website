@@ -227,6 +227,7 @@
         border: 0px;
         background-color: #AA6C39;
         top: -738px;
+        transform: rotate(90deg);
     }
     
     .second-vert {
@@ -236,5 +237,6 @@
         border: 0px;
         background-color: #AA6C39;
         top: -738px;
+        transform: rotate(90deg);
     }
 }
