@@ -166,7 +166,7 @@
         color: #AA6C39;
         font-size: 120%;
         top: 15%;
-        left: 45%;
+        left: 55%;
     }
     
     .a-three:visited {
@@ -202,7 +202,7 @@
         color: #AA6C39;
         font-size: 120%;
         top: 15%;
-        left: 60%;
+        left: 70%;
     }
     
     .a-four:visited {
@@ -235,33 +235,33 @@
     .first-vert-line {
         position: absolute;
         background-color: #AA6C39;
-        width: 8%;
+        width: 7%;
         height: 0.5%;
         border: 0px;
         transform: rotate(90deg);
-        left: 20%;
+        left: 25%;
         top: 15%;
     }
 
     .second-vert-line {
         position: absolute;
         background-color: #AA6C39;
-        width: 8%;
+        width: 7%;
         height: 0.5%;
         border: 0px;
         transform: rotate(90deg);
-        left: 35%;
+        left: 45%;
         top: 15%;
     }
 
     .third-vert-line {
         position: absolute;
         background-color: #AA6C39;
-        width: 8%;
+        width: 7%;
         height: 0.5%;
         border: 0px;
         transform: rotate(90deg);
-        left: 50%;
+        left: 65%;
         top: 15%;
     }
 }
