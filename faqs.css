@@ -108,8 +108,8 @@
         position: relative;
         color: #AA6C39;
         font-size: 19px;
-        top: -720px;
-        left: 690px;
+        top: -725px;
+        left: 710px;
     }
 
     .a-two:visited {
@@ -150,11 +150,11 @@
 
     .a-three:visited {
         text-decoration: none;
-        position: absolute;
+        position: relative;
         color: #AA6C39;
-        font-size: 120%;
-        top: 30%;
-        left: 61.5%;
+        font-size: 19px;
+        top: -725px;
+        left: 750px;
     }
 
     .a-three:active {
