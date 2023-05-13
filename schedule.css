@@ -484,22 +484,22 @@
     .first-vert {
         position: absolute;
         height: 4px;
-        width: 8%;
+        width: 6%;
         background-color: #AA6C39;
         border: 0px;
         top: 20%;
-        left: 50%;
+        left: 58%;
         transform: rotate(90deg);
     }
     
     .second-vert {
         position: absolute;
         height: 4px;
-        width: 8%;
+        width: 6%;
         background-color: #AA6C39;
         border: 0px;
         top: 20%;
-        left: 30%;
+        left: 38%;
         transform: rotate(90deg);
     }
     
