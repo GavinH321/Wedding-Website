@@ -72,7 +72,7 @@
         position: relative;
         color: #AA6C39;
         font-size: 19px;
-        top: -700px;
+        top: -695px;
         left: 620px;
     }
 
@@ -108,8 +108,8 @@
         position: relative;
         color: #AA6C39;
         font-size: 19px;
-        top: -700px;
-        left: 660px;
+        top: -720px;
+        left: 690px;
     }
 
     .a-two:visited {
@@ -217,6 +217,6 @@
         height: 4px;
         border: 0px;
         background-color: #AA6C39;
-        top: -740px;
+        top: -738px;
     }
 }
