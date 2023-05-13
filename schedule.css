@@ -441,34 +441,34 @@
         color: #AA6C39;
         font-size: 120%;
         top: 80%;
-        left: 40%;
+        left: 38%;
     }
 
     .a-four:visited {
         text-decoration: none;
-        position: relative;
+        position: absolute;
         color: #AA6C39;
-        font-size: 19px;
-        top: -1082px;
-        left: 200px;
+        font-size: 120%;
+        top: 80%;
+        left: 38%;
     }
 
     .a-four:active {
         text-decoration: none;
-        position: relative;
+        position: absolute;
         color: #AA6C39;
-        font-size: 19px;
-        top: -1082px;
-        left: 200px;
+        font-size: 120%;
+        top: 80%;
+        left: 38%;
     }
 
     .a-four:hover {
         text-decoration: underline;
-        position: relative;
+        position: absolute;
         color: #AA6C39;
-        font-size: 19px;
-        top: -1082px;
-        left: 200px;
+        font-size: 120%;
+        top: 80%;
+        left: 38%;
     }
 
     .first-hr {
