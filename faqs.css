@@ -222,23 +222,23 @@
     
     .first-vert {
         position: relative;
-        width: 15px;
+        width: 30px;
         height: 3px;
         border: 0px;
         background-color: #AA6C39;
         top: -745px;
-        left: 35px;
+        left: 40px;
         transform: rotate(90deg);
     }
     
     .second-vert {
         position: relative;
-        width: 15px;
+        width: 30px;
         height: 3px;
         border: 0px;
         background-color: #AA6C39;
-        top: -750px;
-        left: -40px;
+        top: -755px;
+        left: -50px;
         transform: rotate(90deg);
     }
 }
