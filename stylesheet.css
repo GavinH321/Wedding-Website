@@ -235,34 +235,34 @@
     .first-vert-line {
         position: absolute;
         background-color: #AA6C39;
-        width: 30px;
-        height: 2px;
+        width: 8%;
+        height: 0.5%;
         border: 0px;
         transform: rotate(90deg);
-        right: 0%;
-        top: 0%;
+        left: 20%;
+        top: 15%;
     }
 
     .second-vert-line {
         position: absolute;
         background-color: #AA6C39;
-        width: 30px;
-        height: 2px;
+        width: 8%;
+        height: 0.5%;
         border: 0px;
         transform: rotate(90deg);
-        right: 0%;
-        top: 0%;
+        left: 35%;
+        top: 15%;
     }
 
     .third-vert-line {
         position: absolute;
         background-color: #AA6C39;
-        width: 30px;
-        height: 2px;
+        width: 8%;
+        height: 0.5%;
         border: 0px;
         transform: rotate(90deg);
-        right: 0%;
-        top: 0%;
+        left: 50%;
+        top: 15%;
     }
 }
 
