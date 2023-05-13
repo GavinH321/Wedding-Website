@@ -42,7 +42,7 @@
         border-right: #AA6C39;
         border-right-width: 4px;
         border-right-style: solid;
-        width: 98.5%;
+        width: 98.4%;
         height: 40%;
     }
 
@@ -52,6 +52,7 @@
         top: 44%;
         width: 30%;
         height: 15%;
+        right: 2%;
     }
 
     .burgandy-flower-two {
@@ -66,19 +67,17 @@
     .rose-photo {
         position: absolute;
         display: block;
-        top: 0.2%;
-        left: 0.2%;
         width: 30%;
-        height: 15%;
+        height: 20%;
     }
 
     .rose-photo-two {
         position: absolute;
         display: block;
-        top: 44%;
-        left: 75%;
+        top: 46%;
+        left: 76%;
         width: 30%;
-        height: 15%;
+        height: 20%;
     }
 
     body {
