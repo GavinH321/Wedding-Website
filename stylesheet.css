@@ -23,7 +23,7 @@
         color: #AA6C39;
         font-size: 170%;
         top: 15%;
-        left: 15%
+        left: 20%
     }
 
     .photo-number-1 {
@@ -31,7 +31,7 @@
         display: block;
         margin-left: auto;
         margin-right: auto;
-        top: 50%;
+        top: 60%;
         left: 0%;
         border-left: #AA6C39;
         border-left-width: 4px;
@@ -42,7 +42,7 @@
         border-right: #AA6C39;
         border-right-width: 4px;
         border-right-style: solid;
-        width: 96%;
+        width: 98%;
         height: 40%;
     }
 
