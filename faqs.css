@@ -219,4 +219,22 @@
         background-color: #AA6C39;
         top: -738px;
     }
+    
+    .first-vert {
+        position: relative;
+        width: 300px;
+        height: 4px;
+        border: 0px;
+        background-color: #AA6C39;
+        top: -738px;
+    }
+    
+    .second-vert {
+        position: relative;
+        width: 300px;
+        height: 4px;
+        border: 0px;
+        background-color: #AA6C39;
+        top: -738px;
+    }
 }
