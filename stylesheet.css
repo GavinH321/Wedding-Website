@@ -3,9 +3,10 @@
         position: absolute;
         background-color: #AA6C39;
         width: 75%;
-        height: 0.2%;
+        height: 0.5%;
         border: 0px;
-        top: 15%;
+        top: 12%;
+        left: 10%
     }
 
     .wedding-title {
@@ -22,7 +23,7 @@
         position: absolute;
         color: #AA6C39;
         font-size: 170%;
-        top: 10%;
+        top: 5%;
         left: 19%
     }
 
