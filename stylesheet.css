@@ -23,7 +23,7 @@
         color: #AA6C39;
         font-size: 170%;
         top: 15%;
-        left: 20%
+        left: 18%
     }
 
     .photo-number-1 {
@@ -42,26 +42,26 @@
         border-right: #AA6C39;
         border-right-width: 4px;
         border-right-style: solid;
-        width: 98%;
+        width: 99%;
         height: 40%;
     }
 
     .burgandy-flower {
         position: absolute;
         display: block;
-        top: 0%;
-        left: -25px;
+        top: 45%;
+        left: 5%;
         width: 30%;
-        height: 30%;
+        height: 20%;
     }
 
     .burgandy-flower-two {
         position: absolute;
         display: block;
-        left: 310px;
-        top: -460px;
+        left: 75%;
+        top: 1%;
         width: 30%;
-        height: 30%;
+        height: 20%;
     }
 
     .rose-photo {
