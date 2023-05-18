@@ -261,7 +261,7 @@
     h1 {
         position: absolute;
         top: 8%;
-        left: 35%;
+        left: 35.5%;
         font-family: 'Kalam', cursive;
         color: #AA6C39;
         font-size: 280%;
@@ -362,7 +362,7 @@
         color: #AA6C39;
         font-size: 120%;
         top: 22%;
-        left: 40%;
+        left: 43%;
     }
 
     .a-two:visited {
@@ -398,7 +398,7 @@
         color: #AA6C39;
         font-size: 19px;
         top: 22%;
-        left: 54%;
+        left: 58%;
     }
 
     .a-three:visited {
@@ -466,12 +466,12 @@
     
     .first-hr {
         position: absolute;
-        width: 40%;
+        width: 50%;
         height: 0.5%;
         border: 0px;
         background-color: #AA6C39;
         top: 19%;
-        left: 25%;
+        left: 27%;
     }
     
     .first-vert {
