@@ -434,7 +434,7 @@
         color: #AA6C39;
         font-size: 120%;
         top: 85%;
-        left: 36.5%;
+        left: 37%;
     }
 
     .a-four:visited {
@@ -497,11 +497,11 @@
     }
     
     .bullet-one {
-        position: relative;
-        text-align: center;
+        position: absolute;
         color: #AA6C39;
-        font-size: 12pt;
-        top: -750px;
+        font-size: 100%;
+        top: 25%;
+        left: 30%;
     }
 }
 }
