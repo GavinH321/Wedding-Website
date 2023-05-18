@@ -1,4 +1,4 @@
-@media only screen and (min-width: 992px) {
+@media only screen and (min-width: 1320px) {
 
     body {
         height: 100%;
@@ -249,4 +249,257 @@
         font-size: 12pt;
         top: -750px;
     }
+}
+
+@media screen and (max-width: 1300px) {
+    
+    body {
+        height: 100%;
+        overflow: hidden;
+    }
+
+    h1 {
+        position: relative;
+        top: -650px;
+        left: -5px;
+        text-align: center;
+        font-family: 'Kalam', cursive;
+        color: #AA6C39;
+        font-size: 40pt;
+    }
+
+    h3 {
+        position: relative;
+        top: -680px;
+        text-align: center;
+        font-family: 'Kalam', cursive;
+        color: #AA6C39;
+        font-size: 24pt;
+    }
+
+    .border {
+        position: absolute;
+        top: 0%;
+        width: 100%;
+        height: 100%;
+    }
+
+    .photo-one {
+        position: relative;
+        width: 220px;
+        height: 280px;
+        top: -420px;
+        left: -600px;
+    }
+
+    .photo-two {
+        position: relative;
+        width: 220px;
+        height: 280px;
+        top: 0px;
+        left: -820px;
+        transform: scaleY(-1);
+    }
+
+    .photo-three {
+        position: relative;
+        width: 220px;
+        height: 280px;
+        top: 0px;
+        left: 240px;
+        transform: scale(-1, -1)
+    }
+
+    .photo-four {
+        position: relative;
+        width: 220px;
+        height: 280px;
+        top: -420px;
+        left: 15px;
+        transform: scaleX(-1);
+    }
+    
+    .a-one:link {
+        text-decoration: none;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -695px;
+        left: 620px;
+    }
+
+    .a-one:visited {
+        text-decoration: none;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -695px;
+        left: 620px;
+    }
+
+    .a-one:hover {
+        text-decoration: underline;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -695px;
+        left: 620px;
+    }
+
+    .a-one:active {
+        text-decoration: none;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -695px;
+        left: 620px;
+    }
+
+    .a-two:link {
+        text-decoration: none;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -735px;
+        left: 730px;
+    }
+
+    .a-two:visited {
+        text-decoration: none;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -735px;
+        left: 730px;
+    }
+
+    .a-two:hover {
+        text-decoration: underline;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -735px;
+        left: 730px;
+    }
+
+    .a-two:active {
+        text-decoration: none;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -735px;
+        left: 730px;
+    }
+
+    .a-three:link {
+        text-decoration: none;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -735px;
+        left: 775px;
+    }
+
+    .a-three:visited {
+        text-decoration: none;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -735px;
+        left: 775px;
+    }
+
+    .a-three:active {
+        text-decoration: none;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -735px;
+        left: 775px;
+    }
+
+    .a-three:hover {
+        text-decoration: underline;
+        position: relative;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -735px;
+        left: 775px;
+    }
+
+    .a-four:link {
+        text-decoration: none;
+        position: absolute;
+        color: #AA6C39;
+        font-size: 19px;
+        top: -735;
+        left: 400px;
+    }
+
+    .a-four:visited {
+        text-decoration: none;
+        position: absolute;
+        color: #AA6C39;
+        font-size: 100%;
+        top: 13%;
+        left: 39%;
+    }
+
+    .a-four:active {
+        text-decoration: none;
+        position: absolute;
+        color: #AA6C39;
+        font-size: 100%;
+        top: 13%;
+        left: 39%;
+    }
+
+    .a-four:hover {
+        text-decoration: underline;
+        position: absolute;
+        color: #AA6C39;
+        font-size: 100%;
+        top: 13%;
+        left: 39%;
+    }
+    
+    .first-hr {
+        position: relative;
+        width: 300px;
+        height: 4px;
+        border: 0px;
+        background-color: #AA6C39;
+        top: -738px;
+    }
+    
+    .first-vert {
+        position: relative;
+        width: 30px;
+        height: 3px;
+        border: 0px;
+        background-color: #AA6C39;
+        top: -755px;
+        left: 40px;
+        transform: rotate(90deg);
+    }
+    
+    .second-vert {
+        position: relative;
+        width: 30px;
+        height: 3px;
+        border: 0px;
+        background-color: #AA6C39;
+        top: -765px;
+        left: -50px;
+        transform: rotate(90deg);
+    }
+    
+    .bullet-one {
+        position: relative;
+        text-align: center;
+        color: #AA6C39;
+        font-size: 12pt;
+        top: -750px;
+    }
+}
 }
