@@ -259,9 +259,9 @@
     }
 
     h1 {
-        position: relative;
+        position: absolute;
         top: 5%;
-        text-align: center;
+        left: 30%;
         font-family: 'Kalam', cursive;
         color: #AA6C39;
         font-size: 280%;
@@ -321,7 +321,7 @@
     
     .a-one:link {
         text-decoration: none;
-        position: relative;
+        position: absolute;
         color: #AA6C39;
         font-size: 120%;
         top: 12%;
@@ -357,12 +357,12 @@
 
     .a-two:link {
         text-decoration: none;
-        position: relative;
+        position: absolute;
         text-align: center;
         color: #AA6C39;
         font-size: 120%;
         top: 12%;
-        left: 730px;
+        left: 35%;
     }
 
     .a-two:visited {
@@ -394,11 +394,11 @@
 
     .a-three:link {
         text-decoration: none;
-        position: relative;
+        position: absolute;
         color: #AA6C39;
         font-size: 19px;
-        top: -735px;
-        left: 775px;
+        top: 12%;
+        left: 50%;
     }
 
     .a-three:visited {
@@ -432,9 +432,9 @@
         text-decoration: none;
         position: absolute;
         color: #AA6C39;
-        font-size: 19px;
-        top: -735;
-        left: 400px;
+        font-size: 120%;
+        top: 85%;
+        left: 35%;
     }
 
     .a-four:visited {
@@ -465,12 +465,12 @@
     }
     
     .first-hr {
-        position: relative;
+        position: absolute;
         width: 50%;
         height: 0.5%;
         border: 0px;
         background-color: #AA6C39;
-        top: 5%;
+        top: 10%;
     }
     
     .first-vert {
