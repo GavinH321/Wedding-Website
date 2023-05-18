@@ -260,11 +260,12 @@
 
     h1 {
         position: relative;
-        top: 10%;
+        top: 8%;
+        left: 1%;
         text-align: center;
         font-family: 'Kalam', cursive;
         color: #AA6C39;
-        font-size: 40pt;
+        font-size: 240%;
     }
 
     h3 {
@@ -322,7 +323,7 @@
         text-decoration: none;
         position: relative;
         color: #AA6C39;
-        font-size: 19px;
+        font-size: 120%;
         top: -695px;
         left: 620px;
     }
@@ -464,11 +465,11 @@
     
     .first-hr {
         position: relative;
-        width: 300px;
-        height: 4px;
+        width: 50%;
+        height: 0.5%;
         border: 0px;
         background-color: #AA6C39;
-        top: -738px;
+        top: 10%;
     }
     
     .first-vert {
