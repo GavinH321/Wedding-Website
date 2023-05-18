@@ -260,8 +260,8 @@
 
     h1 {
         position: absolute;
-        top: 5%;
-        left: 30%;
+        top: 7%;
+        left: 32%;
         font-family: 'Kalam', cursive;
         color: #AA6C39;
         font-size: 280%;
@@ -324,7 +324,7 @@
         position: absolute;
         color: #AA6C39;
         font-size: 120%;
-        top: 12%;
+        top: 18%;
         left: 20%;
     }
 
@@ -361,7 +361,7 @@
         text-align: center;
         color: #AA6C39;
         font-size: 120%;
-        top: 12%;
+        top: 18%;
         left: 35%;
     }
 
@@ -397,7 +397,7 @@
         position: absolute;
         color: #AA6C39;
         font-size: 19px;
-        top: 12%;
+        top: 18%;
         left: 50%;
     }
 
@@ -466,11 +466,12 @@
     
     .first-hr {
         position: absolute;
-        width: 50%;
+        width: 40%;
         height: 0.5%;
         border: 0px;
         background-color: #AA6C39;
-        top: 10%;
+        top: 15%;
+        left: 20%;
     }
     
     .first-vert {
