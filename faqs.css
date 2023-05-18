@@ -249,6 +249,54 @@
         font-size: 12pt;
         top: -750px;
     }
+    
+    .bullet-two {
+        position: relative;
+        text-align: center;
+        color: #AA6C39;
+        font-size: 12pt;
+        top: -720px;
+    }
+    
+    .bullet-three {
+        position: relative;
+        text-align: center;
+        color: #AA6C39;
+        font-size: 12pt;
+        top: -690px;
+    }
+    
+    .bullet-four {
+        position: relative;
+        text-align: center;
+        color: #AA6C39;
+        font-size: 12pt;
+        top: -660px;
+    }
+    
+    .bullet-five {
+        position: relative;
+        text-align: center;
+        color: #AA6C39;
+        font-size: 12pt;
+        top: -630px;
+    }
+    
+    .bullet-six {
+        position: relative;
+        text-align: center;
+        color: #AA6C39;
+        font-size: 12pt;
+        top: -600px;
+    }
+    
+    .bullet-seven {
+        position: relative;
+        text-align: center;
+        color: #AA6C39;
+        font-size: 12pt;
+        top: 570px;
+    }
 }
 
 @media screen and (max-width: 1300px) {
@@ -501,7 +549,55 @@
         color: #AA6C39;
         font-size: 100%;
         top: 25%;
-        left: 30%;
+        left: 20%;
+    }
+    
+    .bullet-two {
+        position: absolute;
+        color: #AA6C39;
+        font-size: 100%;
+        top: 28%;
+        left: 20%;
+    }
+    
+    .bullet-three {
+        position: absolute;
+        color: #AA6C39;
+        font-size: 100%;
+        top: 31%;
+        left: 20%;
+    }
+    
+    .bullet-four {
+        position: absolute;
+        color: #AA6C39;
+        font-size: 100%;
+        top: 34%;
+        left: 20%;
+    }
+    
+    .bullet-five {
+        position: absolute;
+        color: #AA6C39;
+        font-size: 100%;
+        top: 37%;
+        left: 20%;
+    }
+    
+    .bullet-six {
+        position: absolute;
+        color: #AA6C39;
+        font-size: 100%;
+        top: 40%;
+        left: 20%;
+    }
+    
+    .bullet-one {
+        position: absolute;
+        color: #AA6C39;
+        font-size: 100%;
+        top: 43%;
+        left: 20%;
     }
 }
-}
+
