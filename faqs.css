@@ -556,7 +556,7 @@
         position: absolute;
         color: #AA6C39;
         font-size: 100%;
-        top: 28%;
+        top: 30%;
         left: 20%;
     }
     
@@ -564,7 +564,7 @@
         position: absolute;
         color: #AA6C39;
         font-size: 100%;
-        top: 31%;
+        top: 35%;
         left: 20%;
     }
     
@@ -572,7 +572,7 @@
         position: absolute;
         color: #AA6C39;
         font-size: 100%;
-        top: 34%;
+        top: 40%;
         left: 20%;
     }
     
@@ -580,7 +580,7 @@
         position: absolute;
         color: #AA6C39;
         font-size: 100%;
-        top: 37%;
+        top: 45%;
         left: 20%;
     }
     
@@ -588,15 +588,15 @@
         position: absolute;
         color: #AA6C39;
         font-size: 100%;
-        top: 40%;
+        top: 50%;
         left: 20%;
     }
     
-    .bullet-one {
+    .bullet-seven {
         position: absolute;
         color: #AA6C39;
         font-size: 100%;
-        top: 43%;
+        top: 55%;
         left: 20%;
     }
 }
