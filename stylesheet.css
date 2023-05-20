@@ -8,6 +8,16 @@
         top: 13%;
         left: 10%
     }
+    
+    h4 {
+        position: absolute;
+        color: #AA6C39;
+        /* -webkit-text-stroke: 1px #AA6C39000; */
+        font-family: 'Great Vibes', cursive;
+        font-size: 3em;
+        left: 15%;
+        top: 40%;
+    }
 
     .wedding-title {
         position: absolute;
@@ -532,5 +542,15 @@
         transform: rotate(90deg);
         right: -100px;
         top: -980px;
+    }
+    
+    h4 {
+        position: absolute;
+        color: #AA6C39;
+        /* -webkit-text-stroke: 1px #AA6C39000; */
+        font-family: 'Great Vibes', cursive;
+        font-size: 0%;
+        left: 540px;
+        top: -20px;
     }
 }
