@@ -480,9 +480,9 @@
         text-decoration: none;
         position: absolute;
         color: #AA6C39;
-        font-size: 100%;
+        font-size: 80%;
         top: 88%;
-        left: 37%;
+        left: 39%;
     }
 
     .a-four:visited {
@@ -523,24 +523,24 @@
     }
     
     .first-vert {
-        position: relative;
-        width: 30px;
-        height: 3px;
+        position: absolute;
+        width: 10%;
+        height: 2px;
         border: 0px;
         background-color: #AA6C39;
-        top: -755px;
-        left: 40px;
+        top: 15%;
+        left: 25%;
         transform: rotate(90deg);
     }
     
     .second-vert {
-        position: relative;
-        width: 30px;
-        height: 3px;
+        position: absolute;
+        width: 10%;
+        height: 2px;
         border: 0px;
         background-color: #AA6C39;
-        top: -765px;
-        left: -50px;
+        top: 15%;
+        left: 50%;
         transform: rotate(90deg);
     }
     
