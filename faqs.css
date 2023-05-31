@@ -482,7 +482,7 @@
         color: #AA6C39;
         font-size: 80%;
         top: 89%;
-        left: 40%;
+        left: 40.5%;
     }
 
     .a-four:visited {
@@ -491,7 +491,7 @@
         color: #AA6C39;
         font-size: 80%;
         top: 89%;
-        left: 40%;
+        left: 40.5%;
     }
 
     .a-four:active {
@@ -500,7 +500,7 @@
         color: #AA6C39;
         font-size: 80%;
         top: 89%;
-        left: 40%;
+        left: 40.5%;
     }
 
     .a-four:hover {
@@ -509,7 +509,7 @@
         color: #AA6C39;
         font-size: 80%;
         top: 89%;
-        left: 40%;
+        left: 40.5%;
     }
     
     .first-hr {
@@ -528,8 +528,8 @@
         height: 2px;
         border: 0px;
         background-color: #AA6C39;
-        top: 25%;
-        left: 40%;
+        top: 22%;
+        left: 37%;
         transform: rotate(90deg);
     }
     
@@ -539,8 +539,8 @@
         height: 2px;
         border: 0px;
         background-color: #AA6C39;
-        top: 25%;
-        left: 55%;
+        top: 22%;
+        left: 53%;
         transform: rotate(90deg);
     }
     
