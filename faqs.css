@@ -481,35 +481,35 @@
         position: absolute;
         color: #AA6C39;
         font-size: 80%;
-        top: 88%;
-        left: 39%;
+        top: 89%;
+        left: 40%;
     }
 
     .a-four:visited {
         text-decoration: none;
         position: absolute;
         color: #AA6C39;
-        font-size: 100%;
-        top: 13%;
-        left: 39%;
+        font-size: 80%;
+        top: 89%;
+        left: 40%;
     }
 
     .a-four:active {
         text-decoration: none;
         position: absolute;
         color: #AA6C39;
-        font-size: 100%;
-        top: 13%;
-        left: 39%;
+        font-size: 80%;
+        top: 89%;
+        left: 40%;
     }
 
     .a-four:hover {
         text-decoration: underline;
         position: absolute;
         color: #AA6C39;
-        font-size: 100%;
-        top: 13%;
-        left: 39%;
+        font-size: 80%;
+        top: 89%;
+        left: 40%;
     }
     
     .first-hr {
@@ -524,22 +524,22 @@
     
     .first-vert {
         position: absolute;
-        width: 10%;
+        width: 6%;
         height: 2px;
         border: 0px;
         background-color: #AA6C39;
-        top: 15%;
-        left: 25%;
+        top: 20%;
+        left: 35%;
         transform: rotate(90deg);
     }
     
     .second-vert {
         position: absolute;
-        width: 10%;
+        width: 6%;
         height: 2px;
         border: 0px;
         background-color: #AA6C39;
-        top: 15%;
+        top: 20%;
         left: 50%;
         transform: rotate(90deg);
     }
